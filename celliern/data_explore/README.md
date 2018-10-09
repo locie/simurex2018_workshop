@@ -31,7 +31,7 @@ These one are available via the `conda` package manager or in command line via t
 conda install holoviews bokeh xarray
 ```
 
-![install anaconda](screencasts/install_anaconda.gif)
+![install anaconda](http://github.com/locie/simurex2018_workshop/celliern/data_explore/screncasts/install_anaconda.gif)
 
 It is strongly advised to clone that repository few day before the workshop. It will contain the source code for the exercises.
 
