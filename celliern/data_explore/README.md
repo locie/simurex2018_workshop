@@ -19,7 +19,7 @@ We will take two examples
 
 ## Requirements
 
-As requirement, all the attendees should have a working [Anaconda 3 distribution installed](https://www.anaconda.com/download/) (python v3.6), which contains the majority of the scientific libs we are needed, as well as the following package:
+As requirement, all the attendees should have a working [Anaconda 3 distribution installed](https://www.anaconda.com/download/) (python v3.7), which contains the majority of the scientific libs we are needed, as well as the following package:
 
 - holoviews
 - bokeh
@@ -31,9 +31,9 @@ These one are available via the `conda` package manager or in command line via t
 conda install holoviews bokeh xarray
 ```
 
-<!-- TODO: screencast installation -->
+![install anaconda](screencasts/install_anaconda.gif)
 
-It is strongly advised to clone that repository few day before the workshop. It will contain all the data and source code for the exercises.
+It is strongly advised to clone that repository few day before the workshop. It will contain the source code for the exercises.
 
 You can easily do that with the following commands in the anaconda prompt:
 
@@ -43,3 +43,36 @@ conda install git
 # clone the tutorial repository
 git clone https://github.com/locie/simurex_data_explore.git
 ```
+
+You should download as well the raw data that will be used during the workshop via the following link (~250 Mo)
+
+https://filesender.renater.fr/?s=download&token=73b3c645-a77f-d82a-17a5-83c31380e685
+
+and extract these in the path simurex2018_workshop/celliern/data_explore/data, the way to obtain the following tree:
+
+    .
+    └── simurex2018_workshop
+       ├── celliern
+       │   ├── data_explore
+       │   │   ├── data
+       │   │   │   ├── ...csv
+       │   │   │   ├── ...csv
+       │   │   │   ├── ...csv
+       │   │   │   ├── ...csv
+       │   │   │   ├── ...csv
+       │   │   │   ├── ...csv
+       │   │   │   └── ...csv
+       │   │   ├── README.md
+       │   │   └── workshop_data_explore.ipynb
+       │   └── machine_learning
+       │       ├── README.md
+       │       └── workshop_ml.ipynb
+       └── README.md
+
+## IDE
+
+Python scripts can be written with your favorite editor, even if the most popular are VSCode, Pycharm or Spyder.
+
+For this specific workshop, using the Jupyter Notebook will be strongly advised, as we will be using of these specific mechanisms for interactive data exploration.
+
+No extra installation is needed : the Jupyter Notebook is shipped with Anaconda : you just have to launch it.
