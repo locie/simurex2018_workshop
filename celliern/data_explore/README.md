@@ -31,7 +31,11 @@ These one are available via the `conda` package manager or in command line via t
 conda install holoviews bokeh xarray
 ```
 
-[![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.gif)](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.mp4)
+[![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/install_anaconda.mp4)
+
+[![install packages](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_package.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/install_package.mp4)
+
+(click for full resolution)
 
 It is strongly advised to clone that repository few day before the workshop. It will contain the source code for the exercises.
 
@@ -76,3 +80,5 @@ Python scripts can be written with your favorite editor, even if the most popula
 For this specific workshop, using the Jupyter Notebook will be strongly advised, as we will be using of these specific mechanisms for interactive data exploration.
 
 No extra installation is needed : the Jupyter Notebook is shipped with Anaconda : you just have to launch it.
+
+[![Use jupyter](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/jupyter_screencast.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/jupyter_screencast.mp4)
