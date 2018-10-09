@@ -32,7 +32,11 @@ These one are available via the `conda` package manager or in command line via t
 conda install scikit-learn
 ```
 
-<!-- TODO: screencast installation -->
+[![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
+
+[![install packages](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_package.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_package.mp4)
+
+(click for full resolution. You'll have to adapt the packages name.)
 
 It is strongly advised to clone that repository few day before the workshop. It will contain all the data and source code for the exercises.
 
@@ -46,3 +50,5 @@ git clone https://github.com/locie/simurex_machine_learning.git
 ```
 
 They attendees can freely use any code editor they want (spyder, vscode, a jupyter notebook...).
+
+The later will allow you to directly run the teaching material (a notebook file as .ipynb).

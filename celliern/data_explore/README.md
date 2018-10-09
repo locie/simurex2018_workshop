@@ -15,7 +15,7 @@ This workshop will give an overview of the modern data exploration stack develop
 We will take two examples
 
 - exploration of a building sensor dataset in an interactive way.
-- real-time visualization of a simulation.
+- real-time visualization of a simulation (if we have the time).
 
 ## Requirements
 
@@ -31,9 +31,9 @@ These one are available via the `conda` package manager or in command line via t
 conda install holoviews bokeh xarray
 ```
 
-[![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/install_anaconda.mp4)
+[![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
 
-[![install packages](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_package.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/install_package.mp4)
+[![install packages](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_package.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_package.mp4)
 
 (click for full resolution)
 
@@ -81,4 +81,6 @@ For this specific workshop, using the Jupyter Notebook will be strongly advised,
 
 No extra installation is needed : the Jupyter Notebook is shipped with Anaconda : you just have to launch it.
 
-[![Use jupyter](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/jupyter_screencast.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/celliern/data_explore/screncasts/jupyter_screencast.mp4)
+[![Use jupyter](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/jupyter_screencast.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/jupyter_screencast.mp4)
+
+(click for full resolution)
