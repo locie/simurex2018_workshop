@@ -31,7 +31,7 @@ These one are available via the `conda` package manager or in command line via t
 conda install holoviews bokeh xarray
 ```
 
-![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.mp4)
+![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/celliern/data_explore/screncasts/install_anaconda.gif)
 
 It is strongly advised to clone that repository few day before the workshop. It will contain the source code for the exercises.
 
@@ -41,7 +41,7 @@ You can easily do that with the following commands in the anaconda prompt:
 # in case git is not installed
 conda install git
 # clone the tutorial repository
-git clone https://github.com/locie/simurex_data_explore.git
+git clone https://github.com/locie/simurex2018_workshop
 ```
 
 You should download as well the raw data that will be used during the workshop via the following link (~250 Mo)
