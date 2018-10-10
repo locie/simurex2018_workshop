@@ -25,18 +25,19 @@ The next plan will be followed:
 As requirement, all the attendees should have a working [Anaconda 3 distribution installed in their computer](https://www.anaconda.com/download/) (python v3.6), which contains the majority of the scientific libs we are needed, as well as the following package:
 
 - `scikit-learn`
+- `seaborn`
 
 These one are available via the `conda` package manager or in command line via the anaconda prompt :
 
 ```bash
-conda install scikit-learn
+conda install scikit-learn seaborn
 ```
 
 [![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
 
 [![install packages](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_package.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_package.mp4)
 
-(click for full resolution. You'll have to adapt the packages name.)
+(click for full resolution. You'll have to adapt the packages names.)
 
 It is strongly advised to clone that repository few day before the workshop. It will contain all the data and source code for the exercises.
 
