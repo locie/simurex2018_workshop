@@ -50,7 +50,7 @@ git clone https://github.com/locie/simurex2018_workshop
 
 You should download as well the raw data that will be used during the workshop via the following link (~250 Mo)
 
-https://filesender.renater.fr/?s=download&token=73b3c645-a77f-d82a-17a5-83c31380e685
+[COMING SOON]
 
 and extract these in the path simurex2018_workshop/celliern/data_explore/data, the way to obtain the following tree:
 
