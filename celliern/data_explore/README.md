@@ -23,12 +23,13 @@ As requirement, all the attendees should have a working [Anaconda 3 distribution
 
 - holoviews
 - bokeh
+- joblib
 - xarray
 
 These one are available via the `conda` package manager or in command line via the anaconda prompt :
 
 ```bash
-conda install holoviews bokeh joblib
+conda install holoviews bokeh joblib xarray
 ```
 
 [![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
@@ -50,7 +51,7 @@ git clone https://github.com/locie/simurex2018_workshop
 
 You should download as well the raw data that will be used during the workshop via the following link (~210 Mo)
 
-[https://filesender.renater.fr/?s=download&token=6fee66b2-e2d3-f625-0c4b-afd0a3d14b4b](https://filesender.renater.fr/?s=download&token=6fee66b2-e2d3-f625-0c4b-afd0a3d14b4b)
+[https://filesender.renater.fr/?s=download&token=ac2803d2-1330-9432-1a43-61c29999112f](https://filesender.renater.fr/?s=download&token=ac2803d2-1330-9432-1a43-61c29999112f)
 
 and extract these in the path simurex2018_workshop/celliern/data_explore/data, the way to obtain the following tree:
 
