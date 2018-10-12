@@ -22,7 +22,7 @@ The next plan will be followed:
 
 ## Software Requirements
 
-As requirement, all the attendees should have a working [Anaconda 3 distribution installed in their computer](https://www.anaconda.com/download/) (python v3.6), which contains the majority of the scientific libs we are needed, as well as the following package:
+As requirement, all the attendees should have a working [Anaconda 3 distribution installed in their computer](https://www.anaconda.com/download/) (python v3.7), which contains the majority of the scientific libs we are needed, as well as the following package:
 
 - `scikit-learn`
 - `seaborn`
