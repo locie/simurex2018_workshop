@@ -1,4 +1,6 @@
 name: simurex
+channels:
+  - conda-forge
 dependencies:
   - python=3.7
   - anaconda
@@ -8,3 +10,4 @@ dependencies:
   - xarray
   - scikit-learn
   - seaborn
+  - salib

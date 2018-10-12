@@ -26,11 +26,12 @@ As requirement, all the attendees should have a working [Anaconda 3 distribution
 
 - `scikit-learn`
 - `seaborn`
+- `SALib`
 
 These one are available via the `conda` package manager or in command line via the anaconda prompt :
 
 ```bash
-conda install scikit-learn seaborn
+conda install -c conda-forge scikit-learn seaborn
 ```
 
 [![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
