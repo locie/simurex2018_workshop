@@ -3,11 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - anaconda
+  - numpy
+  - scipy
+  - pandas
   - holoviews
   - bokeh
   - joblib
   - xarray
   - scikit-learn
   - seaborn
-  - salib
+  - pip:
+    - salib
