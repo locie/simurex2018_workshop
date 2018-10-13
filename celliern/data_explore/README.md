@@ -29,7 +29,7 @@ As requirement, all the attendees should have a working [Anaconda 3 distribution
 These one are available via the `conda` package manager or in command line via the anaconda prompt :
 
 ```bash
-conda install holoviews bokeh joblib xarray
+conda install holoviews bokeh joblib xarray pytables
 ```
 
 [![install anaconda](https://github.com/locie/simurex2018_workshop/blob/master/screncasts/install_anaconda.gif)](https://raw.githubusercontent.com/locie/simurex2018_workshop/master/screncasts/install_anaconda.mp4)
