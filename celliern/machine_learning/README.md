@@ -48,7 +48,7 @@ You can easily do that with the following commands in the anaconda prompt:
 # in case git is not installed
 conda install git
 # clone the tutorial repository
-git clone https://github.com/locie/simurex_machine_learning.git
+git clone https://github.com/locie/simurex2018_workshop.git
 ```
 
 They attendees can freely use any code editor they want (spyder, vscode, a jupyter notebook...).
