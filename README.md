@@ -16,7 +16,7 @@ In order to obtain an up-to-date an working environment, [download](https://www.
 
 ```bash
 conda env create -f environment.yml
-conda source activate simurex
+source activate simurex
 
 jupyter notebook
 # or
