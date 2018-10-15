@@ -15,5 +15,7 @@ dependencies:
   - scikit-learn
   - seaborn
   - pytables
+  - pymc3
+  - statsmodels
   - pip:
     - salib
