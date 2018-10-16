@@ -12,6 +12,10 @@ The following materials are available :
   - [Interactive Data Exploration with Python](https://github.com/locie/simurex2018_workshop/tree/master/celliern/data_explore)
   - [A brief Machine Learning introduction](https://github.com/locie/simurex2018_workshop/tree/master/celliern/machine_learning)
 
+- Simon Rouchier
+  - [Estimation of the heat transfer coefficient by linear regression](https://nbviewer.jupyter.org/github/locie/simurex2018_workshop/blob/master/rouchier/Workshop1_linear.ipynb)
+  - Calibration of a RC model
+
 In order to obtain an up-to-date an working environment, [download](https://www.anaconda.com/download/) and install Anaconda for your platform, then, in command line (Anaconda -> Anaconda Prompt in the windows menu), run
 
 ```bash
