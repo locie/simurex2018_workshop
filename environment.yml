@@ -2,20 +2,18 @@ name: simurex
 channels:
   - conda-forge
 dependencies:
-  - python=3.6
+  - python>=3.5
   - jupyter
-  - spyder
   - numpy
-  - scipy
   - pandas
   - holoviews
   - bokeh
-  - joblib
   - xarray
   - scikit-learn
   - seaborn
   - pytables
+  - hdf
   - pymc3
-  - statsmodels
+  - statsmodel
   - pip:
     - salib

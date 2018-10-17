@@ -25,6 +25,7 @@ As requirement, all the attendees should have a working [Anaconda 3 distribution
 - bokeh
 - joblib
 - xarray
+- pytables
 
 These one are available via the `conda` package manager or in command line via the anaconda prompt :
 
