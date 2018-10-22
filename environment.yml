@@ -1,6 +1,7 @@
 name: simurex
 channels:
   - conda-forge
+  - r
 dependencies:
   - python>=3.5
   - jupyter
@@ -13,5 +14,7 @@ dependencies:
   - seaborn
   - pytables
   - statsmodel
+  - rstudio
+  - r-irkernel
   - pip:
     - salib
