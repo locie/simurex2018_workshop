@@ -29,6 +29,6 @@ spyder
 
 in this directory root. This will install all the needed packages in a isolated environment named `simurex`, then launch a jupyter notebook or spyder.
 
-You will be able to chose this environment when using spyder, vscode if you prefer using these ide.
+You will be able to chose this environment when using spyder, vscode or pycharm if you prefer using these ide.
 
 Otherwise, feel free too install manually the packages for each workshop as indicated in their README.

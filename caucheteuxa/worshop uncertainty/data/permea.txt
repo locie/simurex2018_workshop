@@ -1,0 +1,1562 @@
+"N"	"Departement"	"Usage de Batiment"	"Annee de Construction"	"Materiau Principal"	"Q4Pa_surf(m^3/h*m^2)"
+"1"	30	"Non precise"	"Enseignement"	2011	"Beton"	2.12
+"2"	33	"Non precise"	"Enseignement"	2011	"Beton"	1.94
+"3"	67	"Tarn"	"Enseignement"	2010	"Bois"	0.85
+"4"	84	"Tarn"	"Bureaux"	2011	"Beton"	0.72
+"5"	114	"Jura"	"Enseignement"	2011	"Mixte Beton-Bois"	0.523547534
+"6"	118	"Haute-Saone"	"Enseignement"	2011	"Mixte Beton-Bois"	0.52
+"7"	119	"Haute-Saone"	"Enseignement"	2011	"Mixte Beton-Bois"	0.5
+"8"	122	"Pyrenees-Atlantiques"	"Bureaux"	2011	"Bois"	1.202
+"9"	137	"Pyrenees-Atlantiques"	"Bureaux"	2011	"Beton"	1.283
+"10"	153	"Pyrenees-Atlantiques"	"Enseignement"	2011	"Bois"	2.195
+"14"	371	"Non precise"	"Enseignement"	2011	"Bois"	1.05
+"15"	380	"Non precise"	"Bureaux"	2011	"Beton"	0.9
+"18"	587	"Landes"	"Bureaux"	2010	"Bois"	0.755779167
+"22"	624	"Loiret"	"Bureaux"	2010	"Mixte Acier-Beton"	2
+"26"	645	"Loire-Atlantique"	"Bureaux"	2010	"Beton"	0.62
+"27"	646	"Loire-Atlantique"	"Bureaux"	2010	"Beton"	1.15
+"28"	653	"Hauts-de-Seine"	"Bureaux"	2011	"Beton"	0.559
+"29"	728	"Herault"	"Enseignement"	2014	"Acier"	0.7
+"30"	780	"Vosges"	"Enseignement"	2010	"Beton"	2.37
+"31"	781	"Vosges"	"Enseignement"	2010	"Beton"	0.75
+"32"	813	"Non precise"	"Enseignement"	2011	"Beton"	0.3
+"33"	828	"Non precise"	"Bureaux"	2011	"Beton"	0.96
+"34"	832	"Non precise"	"Commerce"	2011	"Pierre"	0.64
+"35"	833	"Non precise"	"Commerce"	2011	"Pierre"	0.36
+"36"	838	"Non precise"	"Enseignement"	2011	"Bois"	0.55
+"41"	1202	"Non precise"	"Locaux sportifs"	2011	"Bois"	0.69
+"42"	1255	"Non precise"	"Bureaux"	2010	"Bois"	0.14
+"57"	1350	"Ille-et-Vilaine"	"Bureaux"	2010	"Terre cuite"	0.32
+"58"	1351	"Finistere"	"Bureaux"	2010	"Mixte Beton-Bois"	0.38
+"59"	1352	"Finistere"	"Bureaux"	2010	"Beton"	2.08
+"61"	1354	"Morbihan"	"Bureaux"	2010	"Bois"	1.03
+"67"	1383	"Finistere"	"Bureaux"	2010	"Bois"	0.77
+"69"	1401	"Morbihan"	"Locaux sportifs"	2010	"Mixte Acier-Beton"	0.44
+"74"	1462	"Morbihan"	"Enseignement"	2010	"Bois"	0.63
+"75"	1469	"Morbihan"	"Bureaux"	2010	"Pierre"	0.98
+"77"	1476	"Ille-et-Vilaine"	"Bureaux"	2010	"Bois"	0.2
+"80"	1525	"Loire-Atlantique"	"Etablissement sanitaire"	2010	"Beton"	1.4
+"82"	1536	"Cotes-Darmor"	"Commerce"	2010	"Bois"	0.24
+"83"	1537	"Cotes-Darmor"	"Commerce"	2010	"Pierre"	0.47
+"87"	1561	"Moselle"	"Etablissement sanitaire"	2010	"Mixte Beton-Bois"	0.704113617
+"98"	1592	"Moselle"	"Bureaux"	2010	"Beton"	1.1
+"99"	1597	"Meuse"	"Etablissement sanitaire"	2011	"Beton"	1.000507064
+"100"	1598	"Meurthe-et-Moselle"	"Bureaux"	2011	"Beton"	1.461
+"101"	1608	"Aisne"	"Bureaux"	2011	"Beton"	1.777053332
+"104"	1640	"Non precise"	"Enseignement"	2010	"Bois"	1.05
+"106"	1660	"Non precise"	"Enseignement"	2011	"Bois"	0.41
+"107"	1661	"Non precise"	"Enseignement"	2011	"Bois"	1.39
+"108"	1664	"Non precise"	"Bureaux"	2011	"Pierre"	3.1
+"109"	1665	"Non precise"	"Bureaux"	2011	"Beton"	3.8
+"110"	1675	"Seine-et-Marne"	"Bureaux"	2011	"Bois"	0.597
+"112"	1707	"Finistere"	"Salle polyvalente"	2011	"Terre cuite"	2.38
+"115"	1723	"Finistere"	"Bureaux"	2011	"Bois"	0.836
+"116"	1724	"Finistere"	"Restaurant"	2011	"Bois"	1.303
+"117"	1727	"Finistere"	"Bureaux"	2011	"Bois"	0.696
+"118"	1731	"Finistere"	"Enseignement"	2011	"Terre cuite"	0.911
+"136"	1927	"Non precise"	"Enseignement"	2011	"Beton"	1.47
+"138"	1965	"Non precise"	"Bureaux"	2011	"Beton"	0.5
+"143"	2048	"Doubs"	"Bureaux"	2011	"Bois"	1.18
+"144"	2071	"Doubs"	"Bureaux"	2011	"Pierre"	1.21
+"145"	2083	"Jura"	"Etablissement sanitaire"	2011	"Bois"	1.04
+"146"	2086	"Doubs"	"Bureaux"	2011	"Pierre"	0.79
+"147"	2090	"Doubs"	"Locaux sportifs"	2011	"Beton"	1.21
+"149"	2187	"Rhone"	"Bureaux"	2011	"Bois"	1.02
+"150"	2277	"Deux-Sevres"	"Etablissement sanitaire"	2011	"Bois"	0.59
+"151"	2351	"Charente-Maritime"	"Bureaux"	2011	"Brique"	0.72
+"154"	2623	"Landes"	"Bureaux"	2011	"Bois"	0.68
+"155"	2708	"Gard"	"Bureaux"	2010	"Beton"	0.61
+"159"	2761	"Ille-et-Vilaine"	"Locaux sportifs"	2010	"Bois"	1.2
+"161"	2775	"Ille-et-Vilaine"	"Restaurant"	2010	"Mixte Beton-Bois"	1.271
+"162"	2788	"Non precise"	"Enseignement"	2011	"Mixte Beton-Bois"	1.294
+"167"	2877	"Non precise"	"Enseignement"	2011	"Bois"	0.716
+"169"	2947	"Ille-et-Vilaine"	"Enseignement"	2012	"Bois"	0.503227
+"172"	3006	"Lot-et-Garonne"	"Bureaux"	2011	"Beton"	0.77
+"173"	3007	"Lot-et-Garonne"	"Bureaux"	2011	"Beton"	0.92
+"174"	3091	"Non precise"	"Bureaux"	2011	"Pierre"	1.03
+"175"	3117	"Non precise"	"Enseignement"	2012	"Mixte Beton-Bois"	1.054
+"176"	3125	"Saone-et-Loire"	"Commerce"	2011	"Pierre"	1.4
+"188"	3492	"Rhone"	"Enseignement"	2010	"Beton"	1.736129747
+"189"	3496	"Rhone"	"Locaux sportifs"	2010	"Beton"	3.05044364
+"191"	3507	"Haute-Savoie"	"Bureaux"	2010	"Beton"	2.710208762
+"192"	3508	"Haute-Savoie"	"Bureaux"	2010	"Beton"	1.798206418
+"193"	3510	"Rhone"	"Enseignement"	2010	"Bois"	0.404951798
+"195"	3524	"Rhone"	"Salle polyvalente"	2011	"Mixte Beton-Bois"	0.930622813
+"199"	3555	"Haute-Savoie"	"Bureaux"	2011	"Bois"	0.417960046
+"210"	3697	"Loir-et-Cher"	"Bureaux"	2011	"Bois"	1.48
+"214"	3748	"Rhone"	"Hotel"	2011	"Bois"	0.467
+"215"	3749	"Rhone"	"Hotel"	2011	"Bois"	0.474
+"216"	3750	"Rhone"	"Hotel"	2011	"Bois"	0.421
+"218"	3768	"Saone-et-Loire"	"Restaurant"	2011	"Bois"	0.236
+"220"	3801	"Saone-et-Loire"	"Bureaux"	2011	"Bois"	0.355
+"222"	3815	"Drome"	"Locaux sportifs"	2012	"Bois"	0.519
+"224"	3929	"Non precise"	"Bureaux"	2011	"Bois"	0.25
+"227"	4344	"Non precise"	"Bureaux"	2011	"Beton"	1.44
+"228"	4395	"Non precise"	"Bureaux"	2010	"Beton"	0.61
+"229"	4409	"Non precise"	"Bureaux"	2011	"Beton"	0.47
+"230"	4433	"Indre"	"Bureaux"	2011	"Mixte Acier-Beton"	0.463189706
+"231"	4892	"Bas-Rhin"	"Enseignement"	2011	"Beton"	1.22
+"234"	5072	"Bas-Rhin"	"Bureaux"	2011	"Beton"	3.84
+"241"	5368	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	1.77
+"242"	5369	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	1.19
+"243"	5370	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	1.49
+"244"	5371	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	3.16
+"245"	5372	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	1.02
+"246"	5373	"Morbihan"	"Etablissement sanitaire"	2011	"Beton"	1.29
+"248"	5385	"Maine-et-Loire"	"Locaux sportifs"	2011	"Bois"	3.43
+"249"	5409	"Non precise"	"Enseignement"	2011	"Beton"	1.775843017
+"253"	5459	"Non precise"	"Locaux sportifs"	2011	"Brique"	6.37429456
+"259"	5534	"Var"	"Enseignement"	2011	"Beton"	1.524060387
+"261"	5672	"Maine-et-Loire"	"Bureaux"	2011	"Mixte Beton-Bois"	1.059758
+"262"	5673	"Maine-et-Loire"	"Bureaux"	2011	"Mixte Beton-Bois"	1.288796
+"263"	5691	"Vienne"	"Bureaux"	2010	"Acier"	2.95
+"264"	5692	"Vienne"	"Bureaux"	2010	"Acier"	5.495
+"265"	5693	"Vienne"	"Bureaux"	2010	"Acier"	4.909
+"266"	5694	"Vienne"	"Bureaux"	2011	"Beton"	1.261
+"268"	5747	"Ardennes"	"Locaux sportifs"	2011	"Bois"	0.66444693
+"269"	5762	"Non precise"	"Locaux sportifs"	2011	"Bois"	3.670539906
+"270"	5763	"Non precise"	"Locaux sportifs"	2011	"Bois"	4.307458049
+"271"	5768	"Nord"	"Bureaux"	2011	"Beton cellulaire"	0.431250398
+"275"	5777	"Aisne"	"Enseignement"	2011	"Beton"	0.852677754
+"277"	5788	"Oise"	"Bureaux"	2011	"Bois"	1.035423198
+"280"	5810	"Somme"	"Bureaux"	2011	"Bois"	0.830226628
+"281"	5819	"Somme"	"Bureaux"	2011	"Brique"	1.417067242
+"282"	5820	"Somme"	"Bureaux"	2011	"Brique"	1.255372855
+"284"	6039	"Maine-et-Loire"	"Enseignement"	2012	"Brique"	1.117016
+"285"	6051	"Bouches-du-Rhone"	"Bureaux"	2010	"Beton"	4.92
+"286"	6052	"Bouches-du-Rhone"	"Bureaux"	2010	"Beton"	3.15
+"287"	6377	"Vendee"	"Enseignement"	2011	"Beton"	0.47
+"290"	6471	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	0.900305
+"291"	6472	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	3.039
+"292"	6473	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	2.1769
+"293"	6474	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	2.2649
+"294"	6475	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	1.8687
+"295"	6476	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	1.46
+"296"	6477	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	1.91
+"297"	6478	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	1.37
+"298"	6479	"Non precise"	"Etablissement sanitaire"	2011	"Beton"	1.25
+"299"	6531	"Non precise"	"Enseignement"	2010	"Beton"	0.2
+"306"	6543	"Bas-Rhin"	"Locaux sportifs"	2011	"Beton"	0.696086309
+"307"	6544	"Bas-Rhin"	"Locaux sportifs"	2011	"Beton"	1.571525717
+"313"	6568	"Alpes-de-Haute-Provence"	"Bureaux"	2010	"Acier"	2.769
+"322"	6859	"Non precise"	"Enseignement"	2011	"Bois"	0.47
+"327"	7468	"Vendee"	"Etablissement sanitaire"	2010	"Beton"	0.595
+"329"	7940	"Vendee"	"Bureaux"	2012	"Brique"	0.73
+"331"	8016	"Manche"	"Etablissement sanitaire"	2011	"Beton"	0.64
+"334"	8537	"Doubs"	"Enseignement"	2011	"Beton"	1.34
+"336"	8580	"Non precise"	"Enseignement"	2010	"Bois"	0.71
+"337"	8589	"Finistere"	"Bureaux"	2010	"Beton cellulaire"	3.61
+"338"	8632	"Pyrenees-Atlantiques"	"Bureaux"	2010	"Beton"	0.74
+"342"	8673	"Saone-et-Loire"	"Bureaux"	2010	"Bois"	0.98
+"345"	8718	"Morbihan"	"Etablissement sanitaire"	2010	"Terre cuite"	0.51
+"349"	8866	"Eure-et-Loir"	"Bureaux"	2010	"Paille"	0.797799307
+"354"	8886	"Gironde"	"Enseignement"	2010	"Beton"	6.72
+"355"	8887	"Gironde"	"Enseignement"	2010	"Beton"	0.98
+"356"	8888	"Gironde"	"Enseignement"	2010	"Beton"	2.72
+"366"	8952	"Sarthe"	"Enseignement"	2010	"Bois"	1.75
+"367"	8953	"Sarthe"	"Enseignement"	2010	"Bois"	1.475
+"368"	8954	"Sarthe"	"Enseignement"	2010	"Bois"	1.165
+"369"	8955	"Sarthe"	"Enseignement"	2010	"Bois"	1.895
+"370"	8956	"Sarthe"	"Enseignement"	2010	"Bois"	1.21
+"372"	8993	"Creuse"	"Bureaux"	2010	"Bois"	0.74
+"374"	8997	"Non precise"	"Commerce"	2010	"Mixte Acier-Beton"	0.91
+"376"	9289	"Non precise"	"Bureaux"	2010	"Bois"	3.742
+"378"	9297	"Non precise"	"Industrie"	2010	"Bois"	0.272
+"379"	9299	"Non precise"	"Restaurant"	2010	"Bois"	0.426
+"382"	9304	"Non precise"	"Bureaux"	2010	"Beton"	0.631
+"383"	9314	"Non precise"	"Locaux sportifs"	2010	"Bois"	0.483
+"384"	9318	"Non precise"	"Bureaux"	2010	"Bois"	0.438
+"385"	9325	"Non precise"	"Etablissement sanitaire"	2010	"Bois"	0.364
+"386"	9341	"Non precise"	"Bureaux"	2010	"Bois"	0.605
+"387"	9351	"Non precise"	"Bureaux"	2010	"Beton"	0.361
+"388"	9590	"Vendee"	"Bureaux"	2010	"Beton"	0.58
+"392"	10172	"Cotes-Darmor"	"Bureaux"	2010	"Mixte Beton-Bois"	0.84
+"393"	10178	"Cotes-Darmor"	"Bureaux"	2010	"Bois"	0.71
+"396"	10213	"Seine-Maritime"	"Etablissement sanitaire"	2010	"Beton"	1.88
+"397"	10214	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	8.19
+"398"	10215	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	0.82
+"399"	10216	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	2.08
+"400"	10217	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	7.62
+"401"	10218	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	1.08
+"402"	10219	"Pas-de-Calais"	"Enseignement"	2010	"Beton"	2.66
+"404"	10221	"Somme"	"Bureaux"	2010	"Autre"	0.355305118
+"405"	10465	"Ille-et-Vilaine"	"Bureaux"	2012	"Mixte Beton-Bois"	0.5
+"406"	10527	"Manche"	"Locaux sportifs"	2012	"Brique"	0.65
+"407"	10562	"Calvados"	"Enseignement"	2012	"Beton"	0.63
+"411"	10635	"Gard"	"Enseignement"	2011	"Bois"	1.144192738
+"413"	10643	"Non precise"	"Enseignement"	2012	"Beton"	4.851101511
+"414"	10647	"Loire"	"Enseignement"	2012	"Bois"	1.074267968
+"415"	10648	"Bouches-du-Rhone"	"Bureaux"	2012	"Pierre"	4.053325794
+"417"	10651	"Bouches-du-Rhone"	"Bureaux"	2012	"Beton"	0.954028931
+"418"	10695	"Herault"	"Etablissement sanitaire"	2012	"Bois"	0.122157367
+"421"	10773	"Herault"	"Bureaux"	2012	"Beton"	1.213867314
+"422"	11075	"Bas-Rhin"	"Enseignement"	2012	"Mixte Beton-Bois"	0.358842246
+"423"	11105	"Moselle"	"Bureaux"	2012	"Bois"	1.329457814
+"424"	11116	"Haut-Rhin"	"Enseignement"	2010	"Brique"	0.700248089
+"425"	11201	"Bas-Rhin"	"Enseignement"	2012	"Brique"	0.836849622
+"426"	11202	"Bas-Rhin"	"Enseignement"	2012	"Bois"	0.461408018
+"431"	11375	"Haute-Savoie"	"Bureaux"	2013	"Bois"	0.873836
+"432"	11377	"Haute-Savoie"	"Etablissement sanitaire"	2013	"Bois"	0.577868
+"434"	11397	"Herault"	"Bureaux"	2012	"Bois"	1.53
+"435"	11417	"Non precise"	"Industrie"	2012	"Beton"	0.09
+"443"	11465	"Bas-Rhin"	"Commerce"	2012	"Beton"	1.05
+"456"	11568	"Yonne"	"Bureaux"	2012	"Beton"	0.74
+"457"	11578	"Saone-et-Loire"	"Bureaux"	2012	"Mixte Beton-Bois"	0.67
+"458"	11587	"Non precise"	"Bureaux"	2012	"Bois"	1.02
+"459"	11603	"Non precise"	"Enseignement"	2012	"Bois"	0.29
+"460"	11609	"Jura"	"Salle polyvalente"	2012	"Bois"	0.45
+"463"	11678	"Savoie"	"Bureaux"	2012	"Beton"	0.46
+"465"	11691	"Territoire-de-Belfort"	"Salle polyvalente"	2012	"Mixte Beton-Bois"	1.634280027
+"466"	11693	"Ain"	"Bureaux"	2011	"Brique"	0.14
+"467"	11695	"Doubs"	"Bureaux"	2012	"Autre"	1.8
+"470"	11714	"Jura"	"Locaux sportifs"	2012	"Bois"	0.64
+"472"	11721	"Saone-et-Loire"	"Locaux sportifs"	2012	"Bois"	0.6
+"473"	11722	"Doubs"	"Bureaux"	2011	"Acier"	1.8
+"474"	11724	"Isere"	"Enseignement"	2012	"Mixte Beton-Bois"	0.56092226
+"475"	11727	"Non precise"	"Bureaux"	2012	"Mixte Acier-Beton"	1.2
+"479"	11732	"Ain"	"Etablissement sanitaire"	2012	"Brique"	0.55
+"480"	11733	"Savoie"	"Etablissement sanitaire"	2012	"Beton"	0.7
+"481"	11734	"Doubs"	"Bureaux"	2012	"Autre"	2
+"482"	11736	"Haute-Marne"	"Enseignement"	2012	"Bois"	1
+"483"	11737	"Jura"	"Bureaux"	2012	"Mixte Beton-Bois"	0.46
+"484"	11739	"Drome"	"Etablissement sanitaire"	2012	"Brique"	0.31
+"485"	11776	"Savoie"	"Bureaux"	2012	"Beton"	0.61
+"486"	12253	"Vienne"	"Industrie"	2012	"Beton"	0.1
+"487"	12254	"Indre-et-Loire"	"Restaurant"	2012	"Bois"	0.91
+"491"	12260	"Non precise"	"Salle polyvalente"	2012	"Bois"	0.65
+"492"	12261	"Vosges"	"Etablissement sanitaire"	2012	"Beton"	0.22
+"494"	12305	"Haute-Saone"	"Enseignement"	2012	"Terre cuite"	1.454894
+"495"	12351	"Vaucluse"	"Enseignement"	2012	"Mixte Beton-Bois"	0.654493
+"496"	12385	"Non precise"	"Enseignement"	2012	"Bois"	1.11
+"497"	12408	"Non precise"	"Bureaux"	2012	"Bois"	0.41
+"498"	12441	"Nord"	"Bureaux"	2011	"Beton"	0.332090921
+"499"	12442	"Nord"	"Bureaux"	2011	"Beton"	0.344412661
+"500"	12478	"Non precise"	"Enseignement"	2010	"Beton"	0.43
+"503"	12553	"Non precise"	"Enseignement"	2012	"Beton"	0.38
+"505"	12597	"Indre-et-Loire"	"Etablissement sanitaire"	2012	"Bois"	1.2
+"506"	12611	"Indre-et-Loire"	"Etablissement sanitaire"	2013	"Bois"	0.62
+"508"	12845	"Pyrenees-Atlantiques"	"Enseignement"	2012	"Beton"	1.73
+"509"	12848	"Pyrenees-Atlantiques"	"Enseignement"	2012	"Bois"	0.27
+"510"	12929	"Landes"	"Bureaux"	2012	"Acier"	8.23
+"511"	13041	"Pyrenees-Atlantiques"	"Bureaux"	2012	"Mixte Acier-Beton"	0.84
+"513"	13100	"Herault"	"Enseignement"	2012	"Mixte Acier-Beton"	1.575286636
+"514"	13134	"Ille-et-Vilaine"	"Bureaux"	2012	"Beton"	0.29
+"522"	13306	"Yvelines"	"Enseignement"	2012	"Bois"	0.4834
+"523"	13326	"Sarthe"	"Hotel"	2012	"Beton"	2.068
+"524"	13334	"Sarthe"	"Etablissement sanitaire"	2012	"Brique"	1.5965
+"525"	13345	"Sarthe"	"Enseignement"	2012	"Autre"	1.1267
+"527"	13658	"Finistere"	"Bureaux"	2011	"Mixte Beton-Bois"	0.391218
+"535"	14390	"Morbihan"	"Bureaux"	2012	"Beton"	0.51
+"536"	14488	"Morbihan"	"Restaurant"	2013	"Beton"	1.8
+"537"	14503	"Non precise"	"Bureaux"	2011	"Acier"	2.3
+"538"	14504	"Non precise"	"Restaurant"	2011	"Beton"	1
+"542"	14533	"Rhone"	"Restaurant"	2011	"Beton"	1.4
+"543"	14543	"Drome"	"Bureaux"	2011	"Acier"	6.7
+"546"	14557	"Rhone"	"Enseignement"	2012	"Beton"	0.61
+"548"	14563	"Saone-et-Loire"	"Bureaux"	2012	"Beton"	0.39
+"556"	14607	"Ardeche"	"Locaux sportifs"	2012	"Bois"	0.73
+"557"	14608	"Rhone"	"Enseignement"	2012	"Beton"	0.67
+"558"	14609	"Non precise"	"Enseignement"	2012	"Bois"	0.63
+"561"	14625	"Ain"	"Enseignement"	2012	"Beton"	0.66
+"569"	14683	"Rhone"	"Bureaux"	2012	"Beton"	0.35
+"571"	14729	"Loire-Atlantique"	"Enseignement"	2011	"Beton"	0.49
+"573"	14732	"Non precise"	"Commerce"	2011	"Mixte Acier-Beton"	1.03
+"575"	14825	"Non precise"	"Locaux sportifs"	2012	"Beton"	0.78
+"576"	14827	"Loire-Atlantique"	"Enseignement"	2012	"Mixte Beton-Bois"	0.38
+"577"	14829	"Vendee"	"Enseignement"	2012	"Beton"	1.5
+"578"	14830	"Vendee"	"Enseignement"	2012	"Beton"	0.78
+"585"	14924	"Vendee"	"Enseignement"	2012	"Beton"	1.5
+"586"	14925	"Loire-Atlantique"	"Enseignement"	2012	"Bois"	2.4
+"597"	15159	"Indre-et-Loire"	"Bureaux"	2012	"Beton"	0.925414596
+"598"	15177	"Indre-et-Loire"	"Bureaux"	2012	"Beton"	0.334067181
+"599"	15314	"Vendee"	"Etablissement sanitaire"	2012	"Beton"	1.118351
+"601"	15407	"Tarn"	"Bureaux"	2011	"Brique"	1.22
+"607"	15647	"Herault"	"Enseignement"	2012	"Beton"	0.53
+"608"	15679	"Herault"	"Enseignement"	2012	"Beton"	0.7
+"609"	15680	"Herault"	"Enseignement"	2012	"Beton"	0.5
+"612"	15762	"Drome"	"Bureaux"	2012	"Beton"	0.66
+"614"	15827	"Haute-Garonne"	"Salle polyvalente"	2012	"Bois"	1.88
+"616"	15896	"Ille-et-Vilaine"	"Enseignement"	2012	"Bois"	0.503227
+"617"	15914	"Cotes-Darmor"	"Enseignement"	2012	"Bois"	0.563089
+"618"	15915	"Cotes-Darmor"	"Enseignement"	2012	"Bois"	0.390411
+"619"	15916	"Cotes-Darmor"	"Enseignement"	2012	"Bois"	0.311989
+"621"	15929	"Cotes-Darmor"	"Bureaux"	2012	"Mixte Acier-Beton"	1.883651
+"624"	15946	"Ille-et-Vilaine"	"Enseignement"	2012	"Brique"	0.727682
+"625"	15948	"Cotes-Darmor"	"Bureaux"	2012	"Pierre"	0.610429
+"626"	15960	"Ille-et-Vilaine"	"Restaurant"	2012	"Brique"	2.255342
+"631"	16010	"Cotes-Darmor"	"Enseignement"	2012	"Beton"	1.25212
+"636"	16068	"Ille-et-Vilaine"	"Enseignement"	2012	"Beton"	0.693799
+"637"	16069	"Ille-et-Vilaine"	"Enseignement"	2012	"Beton"	0.892295
+"638"	16084	"Ille-et-Vilaine"	"Enseignement"	2011	"Bois"	0.66494835
+"640"	16102	"Ille-et-Vilaine"	"Enseignement"	2012	"Mixte Beton-Bois"	0.313253
+"641"	16103	"Ille-et-Vilaine"	"Enseignement"	2012	"Mixte Beton-Bois"	0.24926
+"642"	16104	"Ille-et-Vilaine"	"Enseignement"	2012	"Mixte Beton-Bois"	0.200901
+"643"	16165	"Cotes-Darmor"	"Enseignement"	2012	"Beton"	0.32
+"644"	16241	"Calvados"	"Restaurant"	2012	"Beton"	0.496
+"645"	16262	"Mayenne"	"Locaux sportifs"	2012	"Bois"	1.41
+"648"	16265	"Mayenne"	"Salle polyvalente"	2012	"Brique"	0.83
+"652"	16269	"Mayenne"	"Salle polyvalente"	2012	"Bois"	0.461358518
+"654"	16271	"Mayenne"	"Etablissement sanitaire"	2012	"Bois"	1.16
+"656"	16273	"Ille-et-Vilaine"	"Bureaux"	2012	"Bois"	0.76
+"660"	16277	"Maine-et-Loire"	"Bureaux"	2012	"Beton"	0.46
+"665"	16447	"Dordogne"	"Salle polyvalente"	2011	"Bois"	1.16
+"666"	16473	"Haute-Vienne"	"Bureaux"	2011	"Beton"	1.41
+"667"	16485	"Haute-Vienne"	"Bureaux"	2011	"Beton"	1.15
+"668"	16487	"Cantal"	"Bureaux"	2012	"Brique"	1.28
+"669"	16551	"Dordogne"	"Bureaux"	2012	"Beton"	1.11
+"670"	16574	"Dordogne"	"Enseignement"	2013	"Bois"	0.76
+"672"	16600	"Moselle"	"Enseignement"	2012	"Bois"	3.05
+"675"	16636	"Isere"	"Enseignement"	2012	"Beton"	1.307
+"678"	16676	"Isere"	"Enseignement"	2012	"Beton"	1.371
+"679"	16677	"Isere"	"Restaurant"	2012	"Bois"	2.564
+"680"	16678	"Isere"	"Enseignement"	2012	"Beton"	0.63
+"682"	16698	"Isere"	"Restaurant"	2012	"Bois"	2.217
+"683"	16702	"Isere"	"Restaurant"	2012	"Bois"	1.992
+"685"	16704	"Isere"	"Bureaux"	2012	"Beton"	0.985
+"689"	17075	"Non precise"	"Locaux sportifs"	2012	"Bois"	0.501533
+"690"	17212	"Rhone"	"Bureaux"	2010	"Bois"	0.89
+"691"	17228	"Savoie"	"Enseignement"	2010	"Bois"	1.3
+"692"	17229	"Isere"	"Enseignement"	2010	"Bois"	0.23
+"699"	17470	"Isere"	"Salle polyvalente"	2012	"Beton"	0.71
+"700"	17551	"Drome"	"Bureaux"	2012	"Bois"	0.4
+"701"	17603	"Cotes-Darmor"	"Enseignement"	2012	"Bois"	0.36
+"702"	17666	"Morbihan"	"Bureaux"	2012	"Beton"	0.74
+"704"	17702	"Loire"	"Salle polyvalente"	2012	"Beton"	0.614682
+"705"	17703	"Loire"	"Salle polyvalente"	2012	"Beton"	1.017991
+"706"	17704	"Loire"	"Bureaux"	2012	"Pierre"	1.751481
+"711"	17755	"Saone-et-Loire"	"Etablissement sanitaire"	2012	"Beton"	0.41
+"712"	17756	"Saone-et-Loire"	"Etablissement sanitaire"	2012	"Beton"	1.2
+"713"	17757	"Saone-et-Loire"	"Etablissement sanitaire"	2012	"Beton"	3.93
+"714"	17758	"Saone-et-Loire"	"Etablissement sanitaire"	2012	"Beton"	0.97
+"715"	17759	"Saone-et-Loire"	"Etablissement sanitaire"	2012	"Beton"	1.13
+"716"	17772	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	0.95
+"717"	17773	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	0.92
+"718"	17774	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	3.4
+"719"	17775	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	0.73
+"720"	17776	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	1.6
+"721"	17777	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	1.24
+"722"	17778	"Ain"	"Enseignement"	2012	"Autre"	1.9
+"732"	17879	"Isere"	"Etablissement sanitaire"	2011	"Beton"	1.69
+"733"	17880	"Isere"	"Etablissement sanitaire"	2010	"Beton"	3.61
+"734"	17892	"Haute-Savoie"	"Bureaux"	2012	"Mixte Acier-Beton"	1.57
+"736"	17916	"Isere"	"Etablissement sanitaire"	2011	"Beton"	2.35
+"737"	17920	"Isere"	"Bureaux"	2012	"Mixte Beton-Bois"	1.36
+"740"	17963	"Isere"	"Enseignement"	2012	"Mixte Beton-Bois"	0.85
+"742"	17996	"Non precise"	"Restaurant"	2013	"Mixte Beton-Bois"	0.5
+"743"	17997	"Non precise"	"Enseignement"	2013	"Mixte Beton-Bois"	0.57
+"745"	18028	"Isere"	"Salle polyvalente"	2012	"Bois"	1.28
+"746"	18050	"Non precise"	"Salle polyvalente"	2012	"Beton"	0.4
+"747"	18051	"Non precise"	"Enseignement"	2012	"Bois"	1.1
+"748"	18088	"Non precise"	"Enseignement"	2012	"Beton"	0.42
+"750"	18119	"Non precise"	"Enseignement"	2012	"Bois"	0.59
+"751"	18147	"Non precise"	"Bureaux"	2013	"Bois"	0.37
+"752"	18157	"Non precise"	"Bureaux"	2013	"Beton"	0.56
+"759"	18286	"Haute-Garonne"	"Bureaux"	2011	"Bois"	0.476
+"761"	18291	"Gers"	"Bureaux"	2012	"Beton"	0.980247004
+"762"	18361	"Haute-Garonne"	"Bureaux"	2012	"Terre cuite"	0.466033341
+"768"	18405	"Eure"	"Bureaux"	2012	"Beton"	1.134267191
+"769"	18406	"Hauts-de-Seine"	"Bureaux"	2012	"Beton"	0.796909264
+"771"	18452	"Non precise"	"Industrie"	2012	"Bois"	1.23
+"772"	18465	"Non precise"	"Bureaux"	2012	"Bois"	1.55
+"775"	18676	"Loiret"	"Bureaux"	2010	"Mixte Acier-Beton"	2
+"779"	18697	"Loire-Atlantique"	"Bureaux"	2010	"Beton"	0.62
+"780"	18698	"Loire-Atlantique"	"Bureaux"	2010	"Beton"	1.15
+"781"	18705	"Hauts-de-Seine"	"Bureaux"	2011	"Beton"	0.559
+"786"	18796	"Loire-Atlantique"	"Bureaux"	2011	"Beton"	1.593804
+"787"	18866	"Loiret"	"Bureaux"	2012	"Bois"	0.68636
+"790"	19203	"Non precise"	"Enseignement"	2012	"Beton"	0.7
+"791"	19207	"Val-Doise"	"Bureaux"	2012	"Beton"	2.4
+"793"	19266	"Loire"	"Enseignement"	2011	"Beton"	1.05
+"796"	19288	"Loire"	"Enseignement"	2011	"Bois"	9.11
+"797"	19293	"Loire"	"Enseignement"	2011	"Bois"	0.57
+"802"	19332	"Loire"	"Enseignement"	2012	"Mixte Beton-Bois"	0.58
+"803"	19342	"Isere"	"Enseignement"	2012	"Beton"	0.27
+"804"	19343	"Rhone"	"Etablissement sanitaire"	2012	"Beton"	0.83
+"807"	19974	"Loire"	"Bureaux"	2012	"Beton"	0.62
+"808"	19975	"Loire"	"Bureaux"	2012	"Beton"	1.51
+"809"	19976	"Loire"	"Bureaux"	2012	"Beton"	1.35
+"811"	20144	"Aisne"	"Bureaux"	2012	"Beton"	0.577770479
+"812"	20147	"Meuse"	"Restaurant"	2012	"Beton"	0.972267112
+"813"	20153	"Non precise"	"Industrie"	2012	"Autre"	0.427
+"814"	20165	"Non precise"	"Bureaux"	2012	"Beton"	1.831
+"815"	20178	"Sarthe"	"Enseignement"	2012	"Bois"	0.495
+"816"	20482	"Jura"	"Etablissement sanitaire"	2011	"Bois"	0.99
+"817"	20504	"Doubs"	"Bureaux"	2012	"Beton"	1.08
+"818"	20505	"Doubs"	"Locaux sportifs"	2012	"Beton"	1.54
+"819"	20506	"Doubs"	"Bureaux"	2012	"Beton"	1.22
+"820"	20507	"Doubs"	"Bureaux"	2012	"Beton"	2.09
+"821"	20512	"Doubs"	"Etablissement sanitaire"	2012	"Brique"	0.38
+"822"	20514	"Doubs"	"Salle polyvalente"	2012	"Beton"	0.94
+"823"	20539	"Doubs"	"Salle polyvalente"	2012	"Beton"	0.98
+"824"	20568	"Doubs"	"Etablissement sanitaire"	2012	"Brique"	0.36
+"826"	20641	"Doubs"	"Bureaux"	2012	"Beton"	20.94
+"828"	20656	"Doubs"	"Etablissement sanitaire"	2012	"Bois"	1.94
+"829"	20661	"Jura"	"Industrie"	2012	"Beton"	1.03
+"831"	20700	"Non precise"	"Enseignement"	2012	"Beton"	2.21
+"832"	20717	"Non precise"	"Bureaux"	2011	"Beton"	0.77
+"833"	20726	"Non precise"	"Enseignement"	2012	"Beton"	0.29
+"834"	20730	"Non precise"	"Enseignement"	2012	"Beton"	0.61
+"835"	20734	"Non precise"	"Bureaux"	2012	"Beton"	0.57
+"836"	20752	"Non precise"	"Enseignement"	2012	"Beton"	0.43
+"837"	20753	"Non precise"	"Enseignement"	2012	"Beton"	0.76
+"838"	20769	"Non precise"	"Enseignement"	2012	"Beton"	1.41
+"839"	20778	"Vendee"	"Enseignement"	2012	"Beton"	0.69
+"840"	20779	"Vendee"	"Enseignement"	2012	"Beton"	0.99
+"841"	20793	"Non precise"	"Enseignement"	2012	"Beton"	0.2
+"844"	20807	"Non precise"	"Bureaux"	2012	"Beton"	0.99
+"845"	20816	"Non precise"	"Restaurant"	2012	"Beton"	1.09
+"846"	20817	"Non precise"	"Enseignement"	2012	"Beton"	0.33
+"847"	20821	"Vendee"	"Bureaux"	2012	"Bois"	0.966
+"848"	20832	"Vendee"	"Enseignement"	2013	"Beton"	0.55
+"849"	20847	"Vendee"	"Enseignement"	2013	"Beton"	0.51
+"851"	20915	"Mayenne"	"Bureaux"	2012	"Beton"	1.44
+"852"	20916	"Mayenne"	"Bureaux"	2012	"Beton"	0.91
+"854"	21026	"Non precise"	"Bureaux"	2012	"Beton"	1.05
+"855"	21027	"Non precise"	"Bureaux"	2012	"Beton"	0.44
+"857"	21194	"Loire"	"Enseignement"	2011	"Mixte Beton-Bois"	0.668
+"859"	21285	"Finistere"	"Bureaux"	2011	"Bois"	0.836
+"861"	21293	"Finistere"	"Restaurant"	2011	"Bois"	0.71
+"863"	21300	"Finistere"	"Bureaux"	2012	"Beton"	0.96
+"866"	21314	"Finistere"	"Locaux sportifs"	2012	"Beton"	1.096
+"869"	21322	"Finistere"	"Etablissement sanitaire"	2012	"Bois"	1.709
+"872"	21395	"Manche"	"Salle polyvalente"	2013	"Mixte Beton-Bois"	0.632
+"876"	21452	"Loir-et-Cher"	"Enseignement"	2012	"Bois"	0.916335
+"879"	21537	"Loiret"	"Bureaux"	2012	"Bois"	1.134634
+"880"	21945	"Maine-et-Loire"	"Enseignement"	2012	"Brique"	1.117016
+"882"	22189	"Isere"	"Bureaux"	2012	"Mixte Acier-Beton"	2.57
+"883"	22352	"Non precise"	"Enseignement"	2011	"Beton"	3.78
+"884"	22353	"Non precise"	"Enseignement"	2011	"Beton"	1.13
+"885"	22354	"Non precise"	"Enseignement"	2011	"Beton"	1
+"886"	22379	"Non precise"	"Bureaux"	2011	"Terre cuite"	0.71
+"887"	22489	"Corse"	"Bureaux"	2012	"Beton"	1.125
+"888"	22493	"Bas-Rhin"	"Enseignement"	2012	"Beton"	0.423
+"889"	22508	"Bas-Rhin"	"Locaux sportifs"	2012	"Beton"	0.338
+"890"	22516	"Bas-Rhin"	"Enseignement"	2012	"Autre"	0.548
+"891"	22605	"Nord"	"Etablissement sanitaire"	2012	"Beton"	1.618831783
+"892"	22606	"Nord"	"Etablissement sanitaire"	2012	"Beton"	1.853629103
+"893"	22607	"Nord"	"Etablissement sanitaire"	2012	"Beton"	0.827500247
+"894"	22608	"Nord"	"Etablissement sanitaire"	2012	"Beton"	0.450424554
+"897"	22755	"Calvados"	"Commerce"	2012	"Acier"	1.85
+"898"	22768	"Loire-Atlantique"	"Enseignement"	2012	"Bois"	1.39
+"899"	22769	"Loire-Atlantique"	"Enseignement"	2012	"Bois"	1.63
+"900"	22771	"Loire-Atlantique"	"Enseignement"	2012	"Bois"	0.84
+"902"	22854	"Non precise"	"Bureaux"	2012	"Brique"	0.7
+"905"	22993	"Bas-Rhin"	"Enseignement"	2012	"Pierre"	2.172711463
+"906"	22994	"Bas-Rhin"	"Enseignement"	2012	"Bois"	0.072452466
+"907"	22996	"Bas-Rhin"	"Enseignement"	2012	"Pierre"	0.789052458
+"910"	23013	"Bas-Rhin"	"Locaux sportifs"	2012	"Mixte Acier-Beton"	0.587556859
+"911"	23014	"Bas-Rhin"	"Enseignement"	2012	"Bois"	1.093014105
+"913"	23026	"Bas-Rhin"	"Hotel"	2012	"Beton"	1.133678781
+"914"	23027	"Moselle"	"Bureaux"	2012	"Bois"	0.606528516
+"916"	23032	"Bas-Rhin"	"Enseignement"	2012	"Beton"	1.169689976
+"920"	23045	"Bas-Rhin"	"Locaux sportifs"	2012	"Mixte Beton-Bois"	0.691786269
+"926"	23083	"Bas-Rhin"	"Locaux sportifs"	2012	"Beton"	0.906855643
+"927"	23208	"Bouches-du-Rhone"	"Bureaux"	2010	"Beton"	4.92
+"928"	23209	"Bouches-du-Rhone"	"Bureaux"	2010	"Beton"	3.15
+"929"	23429	"Non precise"	"Bureaux"	2011	"Beton cellulaire"	1.384534102
+"930"	23447	"Non precise"	"Etablissement sanitaire"	2012	"Brique"	1.065296749
+"931"	23448	"Non precise"	"Etablissement sanitaire"	2012	"Brique"	0.770457287
+"932"	23449	"Non precise"	"Etablissement sanitaire"	2012	"Brique"	0.577763794
+"933"	23462	"Cher"	"Bureaux"	2012	"Bois"	0.61
+"935"	23606	"Non precise"	"Bureaux"	2012	"Beton"	0.421
+"936"	23610	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	0.988
+"941"	23698	"Non precise"	"Locaux sportifs"	2011	"Brique"	6.37429456
+"944"	23727	"Non precise"	"Salle polyvalente"	2011	"Bois"	1.92261541
+"951"	23875	"Non precise"	"Restaurant"	2012	"Beton"	1.054770921
+"952"	23876	"Non precise"	"Enseignement"	2013	"Bois"	0.502519583
+"955"	23944	"Marne"	"Bureaux"	2012	"Acier"	0.149
+"959"	23991	"Nord"	"Bureaux"	2012	"Beton"	0.717
+"960"	24007	"Nord"	"Bureaux"	2012	"Beton"	0.713
+"963"	24026	"Loire-Atlantique"	"Salle polyvalente"	2012	"Beton"	0.750592
+"967"	24729	"Maine-et-Loire"	"Bureaux"	2011	"Beton"	1.37
+"968"	24731	"Loire-Atlantique"	"Enseignement"	2012	"Acier"	1.24
+"971"	24748	"Non precise"	"Restaurant"	2012	"Beton"	2.4
+"972"	24749	"Non precise"	"Restaurant"	2012	"Beton"	2.7
+"973"	24750	"Non precise"	"Restaurant"	2012	"Beton"	2.6
+"978"	24979	"Marne"	"Bureaux"	2012	"Beton"	0.568
+"979"	24980	"Marne"	"Bureaux"	2012	"Beton"	0.499
+"981"	25000	"Nord"	"Bureaux"	2012	"Bois"	0.39
+"982"	25005	"Non precise"	"Bureaux"	2012	"Acier"	1.024
+"984"	25025	"Pas-de-Calais"	"Bureaux"	2012	"Bois"	0.357
+"992"	25785	"Aude"	"Bureaux"	2012	"Bois"	1.789879993
+"993"	26047	"Herault"	"Enseignement"	2011	"Brique"	2.588614173
+"994"	26048	"Herault"	"Enseignement"	2011	"Brique"	3.905883343
+"995"	26049	"Herault"	"Enseignement"	2011	"Brique"	2.68509319
+"996"	26050	"Herault"	"Enseignement"	2011	"Brique"	2.923799611
+"1003"	26335	"Non precise"	"Enseignement"	2011	"Bois"	0.54
+"1004"	26336	"Non precise"	"Enseignement"	2011	"Bois"	0.91
+"1005"	26337	"Non precise"	"Enseignement"	2011	"Bois"	2.16
+"1006"	26342	"Non precise"	"Enseignement"	2011	"Beton"	2.99
+"1007"	26343	"Non precise"	"Enseignement"	2011	"Beton"	2.29
+"1010"	26674	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	1.372364523
+"1011"	26675	"Non precise"	"Etablissement sanitaire"	2012	"Beton"	1.619222621
+"1013"	26727	"Non precise"	"Bureaux"	2012	"Beton"	0.784135164
+"1015"	26796	"Orne"	"Etablissement sanitaire"	2011	"Bois"	1.18
+"1017"	26949	"Oise"	"Enseignement"	2011	"Beton"	3.4
+"1018"	26950	"Oise"	"Enseignement"	2011	"Beton"	3
+"1019"	26951	"Oise"	"Enseignement"	2011	"Beton"	3.6
+"1020"	26963	"Pas-de-Calais"	"Bureaux"	2012	"Beton"	1.12
+"1022"	26991	"Somme"	"Restaurant"	2012	"Acier"	1.46
+"1023"	26994	"Somme"	"Bureaux"	2012	"Acier"	0.77
+"1026"	27003	"Somme"	"Commerce"	2012	"Bois"	1.38
+"1027"	27004	"Nord"	"Bureaux"	2012	"Acier"	12.76
+"1028"	27005	"Nord"	"Bureaux"	2012	"Acier"	19.68
+"1029"	27012	"Somme"	"Bureaux"	2012	"Autre"	0.53
+"1030"	27021	"Val-Doise"	"Restaurant"	2012	"Beton"	0.61
+"1032"	27061	"Aisne"	"Restaurant"	2012	"Beton"	2.55
+"1033"	27062	"Aisne"	"Enseignement"	2012	"Beton"	1.12
+"1034"	27063	"Aisne"	"Restaurant"	2012	"Beton"	1.17
+"1035"	27071	"Seine-Maritime"	"Bureaux"	2012	"Beton"	1.28
+"1036"	27076	"Oise"	"Enseignement"	2012	"Terre cuite"	0.51
+"1037"	27684	"Vendee"	"Etablissement sanitaire"	2011	"Brique"	0.45
+"1042"	28747	"Rhone"	"Enseignement"	2012	"Beton"	1.29
+"1043"	28748	"Rhone"	"Enseignement"	2012	"Beton"	2.65
+"1044"	28749	"Rhone"	"Enseignement"	2012	"Beton"	2.62
+"1047"	29150	"Haut-Rhin"	"Salle polyvalente"	2013	"Brique"	0.57
+"1054"	29271	"Yonne"	"Bureaux"	2012	"Acier"	0.755
+"1060"	29795	"Aude"	"Enseignement"	2010	"Brique"	3.389545116
+"1061"	29796	"Aude"	"Enseignement"	2010	"Brique"	4.174226273
+"1062"	29800	"Aude"	"Enseignement"	2012	"Beton"	0.385939438
+"1064"	29803	"Aude"	"Enseignement"	2012	"Beton"	0.459753872
+"1065"	29808	"Aude"	"Salle polyvalente"	2013	"Pierre"	1.756449759
+"1066"	29810	"Aude"	"Bureaux"	2013	"Beton"	1.554571089
+"1068"	29930	"Calvados"	"Bureaux"	2012	"Bois"	1.241143241
+"1070"	29991	"Non precise"	"Bureaux"	2012	"Bois"	0.74
+"1072"	30012	"Pas-de-Calais"	"Enseignement"	2012	"Brique"	1.055853
+"1073"	30013	"Pas-de-Calais"	"Enseignement"	2012	"Brique"	0.201653
+"1074"	30019	"Nord"	"Bureaux"	2012	"Acier"	1.365598
+"1076"	30025	"Nord"	"Bureaux"	2012	"Acier"	2.967791
+"1078"	30147	"Seine-Maritime"	"Bureaux"	2012	"Mixte Beton-Bois"	0.76
+"1079"	30152	"Eure-et-Loir"	"Salle polyvalente"	2012	"Mixte Beton-Bois"	2.71
+"1080"	30156	"Val-Doise"	"Industrie"	2012	"Bois"	0.78
+"1081"	30177	"Calvados"	"Etablissement sanitaire"	2012	"Beton"	0.2
+"1082"	30178	"Manche"	"Etablissement sanitaire"	2012	"Beton cellulaire"	0.6
+"1083"	30179	"Val-Doise"	"Etablissement sanitaire"	2012	"Beton"	1.19
+"1084"	30522	"Loire-Atlantique"	"Salle polyvalente"	2012	"Beton"	2.14
+"1090"	31710	"Rhone"	"Etablissement sanitaire"	2012	"Mixte Acier-Beton"	0.11
+"1093"	32813	"Non precise"	"Enseignement"	2013	"Brique"	0.936673429
+"1094"	32814	"Non precise"	"Salle polyvalente"	2012	"Bois"	0.735641974
+"1105"	32923	"Non precise"	"Bureaux"	2013	"Beton"	0.91191437
+"1107"	32934	"Non precise"	"Enseignement"	2013	"Bois"	0.456744742
+"1110"	32948	"Non precise"	"Enseignement"	2013	"Bois"	0.863442599
+"1111"	32949	"Non precise"	"Bureaux"	2013	"Beton"	1.14254875
+"1118"	33084	"Vendee"	"Locaux sportifs"	2012	"Beton"	1.143653
+"1120"	33096	"Vendee"	"Commerce"	2013	"Beton"	0.630835
+"1122"	33118	"Non precise"	"Enseignement"	2013	"Bois"	0.893954564
+"1123"	33126	"Non precise"	"Bureaux"	2013	"Beton"	0.995034848
+"1124"	33127	"Non precise"	"Bureaux"	2013	"Beton"	0.473036205
+"1126"	33183	"Vendee"	"Enseignement"	2013	"Brique"	0.311983
+"1127"	33190	"Saone-et-Loire"	"Bureaux"	2010	"Mixte Acier-Beton"	2.78
+"1128"	33221	"Bas-Rhin"	"Bureaux"	2013	"Pierre"	1.78
+"1130"	33358	"Territoire-de-Belfort"	"Bureaux"	2013	"Beton"	2.2
+"1131"	33408	"Sarthe"	"Salle polyvalente"	2013	"Bois"	1.073989
+"1132"	33540	"Pyrenees-Atlantiques"	"Enseignement"	2013	"Bois"	0.182
+"1133"	33647	"Jura"	"Salle polyvalente"	2012	"Beton cellulaire"	0.85
+"1134"	33648	"Ain"	"Restaurant"	2013	"Bois"	1.6
+"1135"	33650	"Doubs"	"Enseignement"	2012	"Beton"	0.86
+"1136"	33655	"Jura"	"Etablissement sanitaire"	2013	"Autre"	0.74
+"1138"	33666	"Rhone"	"Enseignement"	2013	"Beton"	0.55
+"1139"	33667	"Rhone"	"Enseignement"	2013	"Beton"	0.61
+"1140"	33668	"Rhone"	"Enseignement"	2013	"Beton"	0.38
+"1141"	33669	"Yvelines"	"Salle polyvalente"	2013	"Mixte Acier-Beton"	1
+"1142"	33690	"Rhone"	"Restaurant"	2013	"Beton"	0.98
+"1143"	33691	"Rhone"	"Enseignement"	2013	"Bois"	1.19
+"1144"	33711	"Jura"	"Bureaux"	2013	"Brique"	0.35
+"1145"	33720	"Isere"	"Enseignement"	2013	"Pierre"	5.17
+"1148"	33723	"Rhone"	"Enseignement"	2013	"Bois"	0.61
+"1149"	33724	"Yvelines"	"Salle polyvalente"	2013	"Mixte Acier-Beton"	1.32
+"1154"	33738	"Haute-Saone"	"Bureaux"	2013	"Beton"	1.3
+"1162"	33757	"Doubs"	"Etablissement sanitaire"	2013	"Mixte Beton-Bois"	1.28
+"1165"	33769	"Haute-Marne"	"Enseignement"	2013	"Pierre"	1.01
+"1169"	33935	"Somme"	"Restaurant"	2012	"Acier"	1.46
+"1170"	33938	"Somme"	"Bureaux"	2012	"Acier"	0.77
+"1173"	33943	"Somme"	"Commerce"	2012	"Bois"	1.38
+"1174"	33944	"Nord"	"Bureaux"	2012	"Acier"	12.76
+"1175"	33945	"Nord"	"Bureaux"	2012	"Acier"	19.68
+"1176"	33946	"Val-Doise"	"Restaurant"	2012	"Beton"	0.61
+"1178"	33966	"Aisne"	"Restaurant"	2012	"Beton"	2.55
+"1179"	33967	"Aisne"	"Enseignement"	2012	"Beton"	1.12
+"1180"	33968	"Aisne"	"Restaurant"	2012	"Beton"	1.17
+"1182"	33988	"Val-Doise"	"Restaurant"	2013	"Beton"	1.44
+"1184"	34009	"Oise"	"Restaurant"	2013	"Bois"	2.79
+"1185"	34010	"Oise"	"Enseignement"	2013	"Bois"	5.6
+"1187"	34012	"Somme"	"Bureaux"	2013	"Autre"	0.91
+"1189"	34015	"Oise"	"Restaurant"	2013	"Bois"	2.89
+"1195"	34122	"Haut-Rhin"	"Enseignement"	2013	"Bois"	1.04
+"1196"	34123	"Haut-Rhin"	"Salle polyvalente"	2013	"Bois"	0.64
+"1199"	34127	"Haut-Rhin"	"Salle polyvalente"	2013	"Bois"	0.58
+"1205"	34156	"Rhone"	"Enseignement"	2013	"Beton"	1.168
+"1207"	34198	"Aube"	"Locaux sportifs"	2013	"Brique"	0.43
+"1208"	34199	"Vosges"	"Enseignement"	2013	"Beton"	0.8
+"1209"	34233	"Vosges"	"Bureaux"	2013	"Beton"	0.160941311
+"1212"	34301	"Non precise"	"Enseignement"	2013	"Mixte Beton-Bois"	0.162838793
+"1213"	34302	"Non precise"	"Bureaux"	2013	"Mixte Beton-Bois"	0.352
+"1214"	34309	"Nord"	"Bureaux"	2012	"Beton"	1.381857
+"1215"	34322	"Nord"	"Bureaux"	2012	"Beton"	1.33963
+"1217"	34357	"Nord"	"Enseignement"	2013	"Bois"	0.215551
+"1219"	34374	"Nord"	"Bureaux"	2012	"Bois"	0.96015
+"1220"	34378	"Pas-de-Calais"	"Bureaux"	2013	"Beton"	0.445955
+"1229"	34520	"Bas-Rhin"	"Bureaux"	2011	"Acier"	4.339325796
+"1232"	34554	"Bas-Rhin"	"Enseignement"	2013	"Beton"	2.722986509
+"1233"	34555	"Alpes-Maritimes"	"Enseignement"	2013	"Beton"	7.30756898
+"1234"	34556	"Bas-Rhin"	"Bureaux"	2013	"Beton"	1.037999756
+"1235"	34562	"Bas-Rhin"	"Enseignement"	2013	"Acier"	0.879207913
+"1238"	34662	"Bas-Rhin"	"Enseignement"	2013	"Bois"	0.99
+"1239"	34663	"Bas-Rhin"	"Enseignement"	2013	"Beton"	0.809002599
+"1241"	34685	"Bas-Rhin"	"Enseignement"	2013	"Beton"	1.091009658
+"1249"	34815	"Charente-Maritime"	"Enseignement"	2013	"Beton"	0.62
+"1250"	34891	"Deux-Sevres"	"Etablissement sanitaire"	2014	"Bois"	0.355691
+"1251"	34906	"Non precise"	"Enseignement"	2013	"Beton"	1.086
+"1252"	34907	"Manche"	"Bureaux"	2013	"Brique"	0.208
+"1253"	34908	"Manche"	"Bureaux"	2013	"Brique"	0.882
+"1254"	34909	"Manche"	"Bureaux"	2013	"Beton"	0.722
+"1255"	34913	"Manche"	"Restaurant"	2013	"Bois"	0.494
+"1256"	34914	"Manche"	"Enseignement"	2013	"Brique"	0.421
+"1257"	34918	"Manche"	"Etablissement sanitaire"	2013	"Mixte Beton-Bois"	0.925
+"1258"	34961	"Oise"	"Restaurant"	2013	"Terre cuite"	1.139097
+"1261"	35060	"Sarthe"	"Enseignement"	2013	"Beton"	0.6643
+"1263"	35064	"Sarthe"	"Bureaux"	2013	"Brique"	1.4849
+"1264"	35117	"Vienne"	"Salle polyvalente"	2013	"Bois"	2.61
+"1272"	35887	"Puy-de-Dome"	"Etablissement sanitaire"	2013	"Bois"	0.535907
+"1273"	35908	"Puy-de-Dome"	"Bureaux"	2013	"Beton"	0.391067
+"1277"	35988	"Haute-Vienne"	"Enseignement"	2013	"Bois"	0.36
+"1278"	36012	"Creuse"	"Bureaux"	2013	"Mixte Beton-Bois"	1.28
+"1279"	36013	"Charente"	"Etablissement sanitaire"	2013	"Beton"	1.51
+"1282"	36143	"Ille-et-Vilaine"	"Salle polyvalente"	2013	"Bois"	1.07
+"1283"	36148	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.36
+"1287"	36286	"Morbihan"	"Bureaux"	2013	"Beton"	0.32
+"1288"	36293	"Finistere"	"Bureaux"	2012	"Bois"	1.55
+"1289"	36498	"Drome"	"Enseignement"	2013	"Mixte Beton-Bois"	0.26
+"1290"	36762	"Vendee"	"Bureaux"	2013	"Beton"	0.665
+"1291"	37042	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.43
+"1292"	37043	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	1.29
+"1294"	37059	"Marne"	"Enseignement"	2013	"Bois"	0.39
+"1295"	37060	"Marne"	"Enseignement"	2013	"Bois"	0.37
+"1296"	37061	"Marne"	"Enseignement"	2013	"Bois"	1.67
+"1297"	37079	"Hautes-Alpes"	"Bureaux"	2014	"Beton"	0.36
+"1298"	37085	"Non precise"	"Enseignement"	2014	"Beton"	1.39
+"1299"	37122	"Non precise"	"Enseignement"	2013	"Beton"	1.41
+"1300"	37132	"Non precise"	"Enseignement"	2012	"Beton"	0.46
+"1301"	37136	"Non precise"	"Bureaux"	2013	"Mixte Acier-Beton"	1.08
+"1302"	37142	"Non precise"	"Enseignement"	2012	"Beton"	0.63
+"1303"	37149	"Non precise"	"Enseignement"	2012	"Beton"	1.07
+"1304"	37153	"Non precise"	"Industrie"	2013	"Beton"	0.21
+"1305"	37163	"Non precise"	"Salle polyvalente"	2012	"Beton"	0.63
+"1306"	37165	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.31
+"1307"	37302	"Gironde"	"Enseignement"	2013	"Bois"	0.336845257
+"1313"	37419	"Finistere"	"Bureaux"	2012	"Bois"	1.04
+"1316"	37608	"Ille-et-Vilaine"	"Salle polyvalente"	2014	"Beton"	0.89
+"1317"	37676	"Non precise"	"Salle polyvalente"	2013	"Bois"	1
+"1318"	37691	"Saone-et-Loire"	"Salle polyvalente"	2013	"Bois"	0.368
+"1319"	37697	"Isere"	"Enseignement"	2013	"Beton"	0.63
+"1320"	37699	"Non precise"	"Salle polyvalente"	2013	"Beton"	0.214
+"1321"	37700	"Rhone"	"Enseignement"	2013	"Beton"	1.168
+"1323"	37716	"Rhone"	"Salle polyvalente"	2013	"Beton"	1.088
+"1326"	37727	"Isere"	"Bureaux"	2013	"Beton"	0.764
+"1329"	37742	"Non precise"	"Enseignement"	2013	"Beton"	0.184
+"1330"	37743	"Non precise"	"Enseignement"	2013	"Beton"	1.018
+"1331"	37747	"Isere"	"Enseignement"	2013	"Beton"	0.856
+"1332"	37749	"Isere"	"Enseignement"	2013	"Beton"	2.097
+"1333"	37768	"Non precise"	"Enseignement"	2013	"Bois"	0.41
+"1334"	37904	"Non precise"	"Bureaux"	2013	"Beton"	2.738697288
+"1335"	37907	"Non precise"	"Bureaux"	2013	"Bois"	2.085327827
+"1336"	37909	"Non precise"	"Enseignement"	2012	"Beton"	0.226526979
+"1337"	37923	"Non precise"	"Bureaux"	2013	"Bois"	0.054794554
+"1338"	37924	"Non precise"	"Bureaux"	2013	"Bois"	1.500956717
+"1339"	37925	"Non precise"	"Bureaux"	2013	"Bois"	0.923416457
+"1342"	37970	"Rhone"	"Enseignement"	2012	"Beton"	3.35
+"1343"	37971	"Non precise"	"Enseignement"	2012	"Bois"	0.23
+"1345"	37997	"Loire"	"Enseignement"	2012	"Beton"	1.09
+"1346"	38009	"Isere"	"Bureaux"	2013	"Beton"	0.57
+"1347"	38014	"Loire"	"Bureaux"	2013	"Beton"	0.22
+"1348"	38025	"Isere"	"Bureaux"	2013	"Acier"	1.81
+"1349"	38031	"Loire"	"Enseignement"	2012	"Bois"	0.73
+"1351"	38055	"Puy-de-Dome"	"Bureaux"	2012	"Beton"	1.74
+"1352"	38058	"Rhone"	"Hotel"	2013	"Beton"	2.24
+"1355"	38080	"Loire"	"Salle polyvalente"	2013	"Beton"	0.76
+"1358"	38113	"Loire"	"Bureaux"	2012	"Bois"	0.55
+"1360"	38134	"Loire"	"Restaurant"	2012	"Bois"	0.923086703
+"1361"	38244	"Loire-Atlantique"	"Bureaux"	2013	"Acier"	0.42
+"1362"	38259	"Loire-Atlantique"	"Enseignement"	2013	"Acier"	0.32
+"1363"	38260	"Loire-Atlantique"	"Enseignement"	2013	"Acier"	0.36
+"1364"	38273	"Vendee"	"Etablissement sanitaire"	2013	"Beton"	0.72
+"1366"	38304	"Drome"	"Bureaux"	2013	"Paille"	0.15
+"1367"	38310	"Isere"	"Locaux sportifs"	2013	"Beton"	1.13
+"1369"	38368	"Ardeche"	"Etablissement sanitaire"	2013	"Terre cuite"	0.301834
+"1374"	38407	"Ardeche"	"Bureaux"	2013	"Beton"	0.950803
+"1377"	38502	"Non precise"	"Salle polyvalente"	2013	"Beton"	0.272833091
+"1378"	38503	"Non precise"	"Bureaux"	2013	"Beton"	0.628295277
+"1379"	38545	"Gironde"	"Etablissement sanitaire"	2013	"Beton"	1.5
+"1380"	38567	"Haute-Garonne"	"Enseignement"	2013	"Brique"	0.44
+"1381"	38580	"Gironde"	"Etablissement sanitaire"	2013	"Beton"	1.69
+"1382"	38600	"Isere"	"Enseignement"	2013	"Bois"	0.73
+"1386"	38834	"Cotes-Darmor"	"Bureaux"	2013	"Beton"	0.52
+"1388"	38838	"Oise"	"Enseignement"	2013	"Beton"	0.61
+"1389"	38840	"Non precise"	"Bureaux"	2013	"Beton"	0.61
+"1390"	38842	"Bas-Rhin"	"Salle polyvalente"	2013	"Beton"	0.45
+"1391"	38843	"Bas-Rhin"	"Enseignement"	2013	"Beton"	0.16
+"1392"	38844	"Bas-Rhin"	"Enseignement"	2013	"Beton"	0.58
+"1393"	38845	"Bas-Rhin"	"Bureaux"	2013	"Beton"	1.01
+"1394"	38847	"Haut-Rhin"	"Bureaux"	2013	"Brique"	0.48
+"1395"	38852	"Bas-Rhin"	"Locaux sportifs"	2014	"Bois"	0.75
+"1396"	38862	"Saone-et-Loire"	"Salle polyvalente"	2013	"Beton"	0.25
+"1397"	38863	"Saone-et-Loire"	"Enseignement"	2013	"Beton"	0.33
+"1398"	38864	"Saone-et-Loire"	"Salle polyvalente"	2013	"Brique"	0.27
+"1401"	38900	"Isere"	"Enseignement"	2013	"Bois"	0.52
+"1402"	38903	"Isere"	"Enseignement"	2013	"Beton"	0.98
+"1405"	39073	"Deux-Sevres"	"Bureaux"	2013	"Brique"	0.855
+"1406"	39096	"Non precise"	"Enseignement"	2013	"Bois"	0.81
+"1408"	39151	"Non precise"	"Enseignement"	2013	"Bois"	0.94
+"1411"	39354	"Paris"	"Enseignement"	2013	"Beton"	1.07
+"1413"	39456	"Seine-Saint-Denis"	"Bureaux"	2012	"Beton"	0.16
+"1414"	39462	"Aisne"	"Bureaux"	2012	"Brique"	0.95
+"1416"	39492	"Aisne"	"Bureaux"	2012	"Beton"	0.57
+"1417"	39516	"Aisne"	"Enseignement"	2013	"Beton"	1.48
+"1419"	39622	"Ain"	"Enseignement"	2013	"Beton"	0.33
+"1420"	39623	"Ain"	"Enseignement"	2013	"Beton"	1.56
+"1421"	39707	"Doubs"	"Bureaux"	2013	"Beton"	3.76
+"1422"	39708	"Jura"	"Commerce"	2013	"Mixte Beton-Bois"	0.2
+"1424"	39710	"Doubs"	"Bureaux"	2013	"Beton"	2.38
+"1426"	39765	"Rhone"	"Bureaux"	2013	"Beton"	0.94
+"1433"	39932	"Non precise"	"Bureaux"	2013	"Beton"	2.872213663
+"1434"	39975	"Non precise"	"Bureaux"	2013	"Beton"	2.74
+"1438"	40249	"Hautes-Pyrenees"	"Enseignement"	2013	"Beton"	2.95
+"1439"	40250	"Hautes-Pyrenees"	"Enseignement"	2013	"Beton"	2.98
+"1445"	40549	"Yonne"	"Bureaux"	2013	"Bois"	0.79
+"1446"	40560	"Seine-Saint-Denis"	"Salle polyvalente"	2013	"Mixte Beton-Bois"	0.93
+"1447"	40562	"Yvelines"	"Salle polyvalente"	2013	"Acier"	2.09
+"1448"	40574	"Essonne"	"Bureaux"	2013	"Beton"	0.61
+"1449"	40747	"Non precise"	"Bureaux"	2013	"Bois"	0.57
+"1450"	40777	"Ille-et-Vilaine"	"Enseignement"	2013	"Bois"	0.7
+"1451"	40780	"Ille-et-Vilaine"	"Enseignement"	2013	"Bois"	0.71
+"1452"	40785	"Ille-et-Vilaine"	"Enseignement"	2013	"Beton"	0.72
+"1453"	40809	"Ille-et-Vilaine"	"Bureaux"	2013	"Brique"	0.33
+"1454"	40829	"Manche"	"Bureaux"	2013	"Brique"	0.44
+"1455"	40849	"Non precise"	"Bureaux"	2013	"Beton"	0.24
+"1456"	40865	"Ille-et-Vilaine"	"Enseignement"	2013	"Bois"	0.22
+"1457"	40875	"Mayenne"	"Enseignement"	2013	"Bois"	1.82
+"1458"	40879	"Ille-et-Vilaine"	"Enseignement"	2013	"Beton"	0.24
+"1459"	40964	"Rhone"	"Etablissement sanitaire"	2013	"Beton"	0.68
+"1461"	41072	"Loire-Atlantique"	"Bureaux"	2013	"Bois"	4.08
+"1462"	41073	"Loire-Atlantique"	"Bureaux"	2013	"Bois"	0.68
+"1464"	41392	"Vendee"	"Enseignement"	2013	"Beton"	0.298222
+"1466"	41399	"Isere"	"Bureaux"	2012	"Beton"	0.797751
+"1468"	41582	"Non precise"	"Enseignement"	2013	"Bois"	1.636315968
+"1469"	41590	"Non precise"	"Enseignement"	2013	"Beton"	0.986692806
+"1470"	41592	"Non precise"	"Locaux sportifs"	2013	"Bois"	1.58718055
+"1471"	41595	"Non precise"	"Bureaux"	2013	"Acier"	0.720911745
+"1473"	41698	"Bouches-du-Rhone"	"Etablissement sanitaire"	2012	"Bois"	1.219905354
+"1475"	42177	"Alpes-de-Haute-Provence"	"Etablissement sanitaire"	2012	"Bois"	0.865610078
+"1476"	42199	"Bouches-du-Rhone"	"Bureaux"	2013	"Beton"	0.867667594
+"1477"	42200	"Bouches-du-Rhone"	"Bureaux"	2013	"Beton"	0.926776477
+"1478"	42219	"Non precise"	"Bureaux"	2013	"Beton"	0.647987411
+"1479"	42229	"Non precise"	"Bureaux"	2013	"Beton"	0.747096714
+"1480"	42263	"Bouches-du-Rhone"	"Bureaux"	2013	"Beton"	0.566269547
+"1482"	42379	"Hauts-de-Seine"	"Bureaux"	2013	"Beton"	2.99
+"1483"	42383	"Seine-Saint-Denis"	"Enseignement"	2013	"Brique"	1.24
+"1485"	42519	"Vendee"	"Bureaux"	2011	"Autre"	2.1
+"1487"	42522	"Vendee"	"Enseignement"	2012	"Mixte Beton-Bois"	1.02
+"1488"	42528	"Yonne"	"Bureaux"	2012	"Acier"	2.43
+"1489"	42542	"Vendee"	"Bureaux"	2013	"Beton"	0.85
+"1490"	42543	"Vendee"	"Bureaux"	2013	"Beton"	1.9
+"1491"	42544	"Vendee"	"Bureaux"	2013	"Beton"	1.36
+"1492"	42582	"Vaucluse"	"Enseignement"	2013	"Bois"	0.358655026
+"1493"	42631	"Gard"	"Bureaux"	2013	"Bois"	0.349579439
+"1494"	42638	"Gard"	"Bureaux"	2013	"Bois"	0.315498408
+"1498"	42690	"Bouches-du-Rhone"	"Etablissement sanitaire"	2013	"Beton"	1.522610405
+"1502"	42776	"Corse"	"Etablissement sanitaire"	2012	"Bois"	0.237536
+"1503"	42852	"Seine-Maritime"	"Enseignement"	2013	"Bois"	0.39
+"1504"	42857	"Maine-et-Loire"	"Bureaux"	2013	"Mixte Acier-Beton"	1.27
+"1505"	42859	"Maine-et-Loire"	"Commerce"	2013	"Mixte Acier-Beton"	1.98
+"1507"	43050	"Indre-et-Loire"	"Bureaux"	2013	"Beton"	0.64
+"1509"	43266	"Finistere"	"Salle polyvalente"	2013	"Beton"	1.62
+"1515"	43296	"Finistere"	"Salle polyvalente"	2013	"Beton"	1.013
+"1516"	43297	"Finistere"	"Salle polyvalente"	2013	"Beton"	0.759
+"1521"	43766	"Herault"	"Enseignement"	2012	"Beton"	0.61
+"1529"	43951	"Non precise"	"Enseignement"	2013	"Beton"	0.81
+"1534"	44134	"Gard"	"Bureaux"	2013	"Beton"	0.78
+"1535"	44540	"Isere"	"Enseignement"	2012	"Mixte Beton-Bois"	1.122771
+"1536"	44658	"Isere"	"Enseignement"	2013	"Beton"	0.609969
+"1550"	44880	"Hauts-de-Seine"	"Enseignement"	2011	"Beton"	0.94
+"1551"	44881	"Hauts-de-Seine"	"Enseignement"	2011	"Beton"	1.33
+"1552"	44882	"Hauts-de-Seine"	"Enseignement"	2011	"Beton"	0.63
+"1553"	44896	"Seine-Saint-Denis"	"Enseignement"	2012	"Beton"	1.63
+"1554"	44898	"Hauts-de-Seine"	"Bureaux"	2012	"Beton"	0.67
+"1556"	44982	"Haut-Rhin"	"Enseignement"	2013	"Brique"	0.76
+"1560"	45050	"Morbihan"	"Enseignement"	2013	"Beton"	1.2
+"1561"	45308	"Vienne"	"Enseignement"	2013	"Bois"	0.78
+"1562"	45799	"Rhone"	"Bureaux"	2012	"Bois"	1.16
+"1563"	45853	"Rhone"	"Bureaux"	2011	"Acier"	1.28
+"1564"	45856	"Rhone"	"Bureaux"	2012	"Beton"	1.79
+"1565"	45859	"Rhone"	"Bureaux"	2011	"Beton"	0.93
+"1567"	45861	"Rhone"	"Bureaux"	2013	"Beton"	1.48
+"1569"	45865	"Rhone"	"Bureaux"	2011	"Beton"	5.69
+"1571"	45946	"Oise"	"Salle polyvalente"	2012	"Brique"	0.98
+"1572"	45963	"Oise"	"Salle polyvalente"	2012	"Bois"	0.83
+"1573"	45964	"Hauts-de-Seine"	"Etablissement sanitaire"	2012	"Beton"	8.23
+"1574"	45965	"Hauts-de-Seine"	"Etablissement sanitaire"	2012	"Beton"	8.07
+"1575"	45969	"Pas-de-Calais"	"Enseignement"	2013	"Bois"	0.69
+"1576"	46003	"Nord"	"Enseignement"	2013	"Beton"	0.71
+"1577"	46004	"Nord"	"Enseignement"	2013	"Beton"	1.74
+"1578"	46010	"Somme"	"Enseignement"	2013	"Beton"	0.73
+"1579"	46020	"Oise"	"Enseignement"	2013	"Beton"	1.11
+"1581"	46264	"Haut-Rhin"	"Enseignement"	2013	"Paille"	0.415245
+"1583"	46288	"Gironde"	"Bureaux"	2013	"Beton"	1.367478
+"1585"	46302	"Finistere"	"Bureaux"	2013	"Beton"	0.305141
+"1586"	46306	"Ille-et-Vilaine"	"Restaurant"	2012	"Brique"	0.995986
+"1587"	46309	"Cotes-Darmor"	"Bureaux"	2013	"Beton"	0.373132
+"1589"	46318	"Ille-et-Vilaine"	"Enseignement"	2013	"Beton"	0.657606
+"1590"	46336	"Cotes-Darmor"	"Enseignement"	2013	"Mixte Beton-Bois"	0.42706
+"1591"	46337	"Ille-et-Vilaine"	"Etablissement sanitaire"	2013	"Beton"	0.355998
+"1595"	46507	"Ille-et-Vilaine"	"Enseignement"	2013	"Beton"	1.227845
+"1596"	46527	"Ille-et-Vilaine"	"Enseignement"	2013	"Beton"	0.715466
+"1597"	46528	"Ille-et-Vilaine"	"Enseignement"	2013	"Bois"	0.523767
+"1598"	46564	"Haute-Marne"	"Bureaux"	2014	"Acier"	0.262609
+"1602"	46616	"Hauts-de-Seine"	"Commerce"	2013	"Acier"	0.45431
+"1603"	46729	"Isere"	"Enseignement"	2013	"Beton"	2.224908
+"1604"	46734	"Ardennes"	"Bureaux"	2012	"Brique"	0.79
+"1605"	46736	"Nord"	"Bureaux"	2013	"Acier"	0.3
+"1606"	46737	"Pas-de-Calais"	"Salle polyvalente"	2013	"Acier"	0.21
+"1608"	46901	"Paris"	"Bureaux"	2013	"Beton"	0.989621897
+"1610"	47002	"Hauts-de-Seine"	"Hotel"	2013	"Beton"	0.55927735
+"1611"	47161	"Puy-de-Dome"	"Enseignement"	2013	"Beton"	0.828
+"1612"	47164	"Puy-de-Dome"	"Bureaux"	2012	"Bois"	0.43
+"1624"	47338	"Seine-Saint-Denis"	"Bureaux"	2013	"Mixte Acier-Beton"	1.15
+"1628"	47501	"Nord"	"Bureaux"	2013	"Brique"	0.750673325
+"1630"	47576	"Nord"	"Bureaux"	2013	"Brique"	2.951968877
+"1632"	47650	"Nord"	"Salle polyvalente"	2013	"Brique"	4.038051521
+"1634"	47828	"Drome"	"Bureaux"	2013	"Bois"	0.436772
+"1635"	47881	"Oise"	"Bureaux"	2013	"Beton"	1.04
+"1636"	47941	"Essonne"	"Salle polyvalente"	2013	"Bois"	0.57
+"1637"	48270	"Non precise"	"Enseignement"	2013	"Bois"	0.44
+"1638"	48286	"Non precise"	"Enseignement"	2013	"Bois"	1.69
+"1641"	48312	"Haute-Saone"	"Locaux sportifs"	2012	"Bois"	0.487919463
+"1642"	48418	"Haute-Saone"	"Bureaux"	2013	"Beton"	0.30788901
+"1643"	48436	"Haut-Rhin"	"Salle polyvalente"	2013	"Beton"	0.344179834
+"1644"	48442	"Bas-Rhin"	"Salle polyvalente"	2013	"Bois"	0.637400976
+"1645"	48446	"Haut-Rhin"	"Enseignement"	2013	"Beton"	0.263185477
+"1646"	48447	"Bas-Rhin"	"Enseignement"	2013	"Bois"	0.202419914
+"1647"	48474	"Bas-Rhin"	"Enseignement"	2013	"Bois"	1.330682552
+"1648"	48548	"Loire-Atlantique"	"Bureaux"	2013	"Beton cellulaire"	1.297069
+"1649"	48551	"Loire-Atlantique"	"Enseignement"	2013	"Bois"	0.655186
+"1650"	48596	"Bouches-du-Rhone"	"Bureaux"	2010	"Beton"	2.7
+"1651"	48669	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.84
+"1652"	48670	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.83
+"1653"	48671	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.85
+"1654"	48672	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.63
+"1655"	48732	"Loiret"	"Etablissement sanitaire"	2013	"Beton"	0.910546
+"1656"	48739	"Indre-et-Loire"	"Locaux sportifs"	2013	"Bois"	0.58024
+"1657"	48809	"Indre-et-Loire"	"Salle polyvalente"	2013	"Bois"	0.383538
+"1658"	49443	"Meurthe-et-Moselle"	"Etablissement sanitaire"	2014	"Autre"	1.41
+"1660"	49528	"Maine-et-Loire"	"Enseignement"	2013	"Beton"	1.68
+"1662"	49532	"Mayenne"	"Bureaux"	2013	"Pierre"	1.02
+"1665"	49535	"Sarthe"	"Bureaux"	2013	"Bois"	1.1
+"1666"	49536	"Mayenne"	"Bureaux"	2013	"Beton"	0.2
+"1667"	49537	"Mayenne"	"Bureaux"	2013	"Bois"	1.12
+"1668"	49538	"Mayenne"	"Bureaux"	2013	"Beton"	0.65
+"1670"	49540	"Mayenne"	"Salle polyvalente"	2013	"Acier"	2.67
+"1671"	49541	"Mayenne"	"Bureaux"	2013	"Beton"	0.69
+"1672"	49636	"Ille-et-Vilaine"	"Bureaux"	2013	"Mixte Acier-Beton"	0.56
+"1673"	49637	"Ille-et-Vilaine"	"Bureaux"	2013	"Mixte Acier-Beton"	0.43
+"1674"	49650	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.32
+"1675"	49652	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.48
+"1676"	49659	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.47
+"1677"	49660	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.52
+"1678"	49681	"Ille-et-Vilaine"	"Enseignement"	2013	"Bois"	1.32
+"1681"	49703	"Bas-Rhin"	"Locaux sportifs"	2012	"Mixte Beton-Bois"	0.99
+"1683"	49738	"Bas-Rhin"	"Hotel"	2013	"Beton"	2.06
+"1684"	49970	"Isere"	"Bureaux"	2014	"Autre"	2.25033061
+"1687"	50222	"Val-Doise"	"Enseignement"	2013	"Beton"	1.38
+"1691"	50359	"Hauts-de-Seine"	"Hotel"	2014	"Beton"	0.99
+"1692"	50362	"Rhone"	"Bureaux"	2012	"Beton"	1.015
+"1693"	50381	"Rhone"	"Bureaux"	2013	"Beton"	1.553
+"1694"	50391	"Rhone"	"Bureaux"	2013	"Beton"	1.201
+"1700"	50697	"Indre-et-Loire"	"Etablissement sanitaire"	2013	"Bois"	0.42
+"1702"	50707	"Indre"	"Bureaux"	2013	"Bois"	2.2
+"1703"	50708	"Loiret"	"Enseignement"	2013	"Brique"	0.42
+"1704"	50709	"Loir-et-Cher"	"Commerce"	2013	"Brique"	0.34
+"1705"	50710	"Cher"	"Bureaux"	2013	"Bois"	1.7
+"1706"	50711	"Cher"	"Bureaux"	2013	"Bois"	1.8
+"1707"	50712	"Cher"	"Bureaux"	2013	"Bois"	1.2
+"1709"	50722	"Indre"	"Restaurant"	2012	"Bois"	2.8
+"1711"	50749	"Isere"	"Enseignement"	2013	"Beton"	1.12
+"1712"	50750	"Savoie"	"Restaurant"	2013	"Bois"	1.73
+"1713"	50751	"Savoie"	"Restaurant"	2013	"Bois"	1.76
+"1714"	50758	"Savoie"	"Restaurant"	2013	"Bois"	1.97
+"1716"	50784	"Savoie"	"Restaurant"	2013	"Bois"	1.36
+"1717"	50785	"Savoie"	"Restaurant"	2013	"Bois"	1.7
+"1718"	50786	"Savoie"	"Restaurant"	2013	"Bois"	1.31
+"1719"	50787	"Savoie"	"Restaurant"	2013	"Bois"	1.07
+"1725"	50890	"Finistere"	"Bureaux"	2013	"Beton"	0.865921
+"1726"	50891	"Finistere"	"Bureaux"	2013	"Beton"	1.178299
+"1727"	50892	"Finistere"	"Bureaux"	2013	"Beton"	1.016785
+"1728"	50910	"Ille-et-Vilaine"	"Salle polyvalente"	2013	"Beton"	0.764078
+"1729"	50923	"Ille-et-Vilaine"	"Bureaux"	2013	"Beton"	0.874197
+"1730"	50927	"Manche"	"Salle polyvalente"	2013	"Beton"	0.906512
+"1731"	50943	"Haute-Garonne"	"Bureaux"	2012	"Terre cuite"	0.466033341
+"1732"	50972	"Haute-Garonne"	"Enseignement"	2012	"Terre cuite"	1.343747344
+"1738"	51149	"Haut-Rhin"	"Etablissement sanitaire"	2013	"Beton"	1.3347309
+"1740"	51189	"Yonne"	"Bureaux"	2013	"Acier"	1.46
+"1742"	51214	"Yonne"	"Bureaux"	2013	"Acier"	1.118
+"1743"	51216	"Meuse"	"Bureaux"	2013	"Beton"	3.004
+"1744"	51227	"Aube"	"Bureaux"	2013	"Beton"	0.395
+"1745"	51250	"Meuse"	"Bureaux"	2013	"Beton"	0.88
+"1746"	51253	"Aube"	"Etablissement sanitaire"	2013	"Beton"	0.832
+"1748"	51666	"Maine-et-Loire"	"Enseignement"	2012	"Terre cuite"	0.46
+"1749"	51687	"Loire-Atlantique"	"Bureaux"	2012	"Bois"	0.91
+"1752"	51708	"Loire-Atlantique"	"Bureaux"	2012	"Beton"	0.34
+"1755"	51712	"Loire-Atlantique"	"Bureaux"	2012	"Bois"	1.34
+"1758"	51752	"Maine-et-Loire"	"Salle polyvalente"	2013	"Beton"	3.49
+"1759"	51771	"Maine-et-Loire"	"Enseignement"	2013	"Bois"	1.69
+"1761"	51825	"Loire-Atlantique"	"Enseignement"	2013	"Bois"	1.19
+"1762"	51830	"Loire-Atlantique"	"Etablissement sanitaire"	2013	"Beton"	1.1
+"1764"	51846	"Ille-et-Vilaine"	"Locaux sportifs"	2013	"Beton"	0.927217
+"1765"	51882	"Doubs"	"Bureaux"	2014	"Bois"	0.89
+"1767"	52174	"Dordogne"	"Salle polyvalente"	2011	"Bois"	1.16
+"1768"	52200	"Haute-Vienne"	"Bureaux"	2011	"Beton"	1.41
+"1769"	52212	"Haute-Vienne"	"Bureaux"	2011	"Beton"	1.15
+"1770"	52214	"Cantal"	"Bureaux"	2012	"Brique"	1.28
+"1771"	52278	"Dordogne"	"Bureaux"	2012	"Beton"	1.11
+"1772"	52301	"Dordogne"	"Enseignement"	2013	"Bois"	0.76
+"1777"	52329	"Non precise"	"Enseignement"	2013	"Bois"	1.11
+"1778"	52337	"Haute-Vienne"	"Bureaux"	2013	"Brique"	0.36
+"1779"	52346	"Dordogne"	"Bureaux"	2013	"Beton"	0.74
+"1780"	52440	"Maine-et-Loire"	"Bureaux"	2013	"Mixte Beton-Bois"	0.878075
+"1781"	52468	"Maine-et-Loire"	"Enseignement"	2013	"Brique"	0.944336
+"1782"	52548	"Non precise"	"Enseignement"	2013	"Beton"	1.5
+"1783"	52549	"Non precise"	"Enseignement"	2013	"Beton"	0.73
+"1784"	52550	"Loire-Atlantique"	"Enseignement"	2013	"Mixte Acier-Beton"	0.57
+"1785"	52554	"Loire-Atlantique"	"Enseignement"	2013	"Beton"	0.89
+"1786"	52555	"Loire-Atlantique"	"Enseignement"	2013	"Beton"	0.99
+"1787"	52578	"Non precise"	"Salle polyvalente"	2013	"Beton"	0.66
+"1788"	52579	"Non precise"	"Salle polyvalente"	2013	"Beton"	0.78
+"1789"	52580	"Non precise"	"Locaux sportifs"	2013	"Beton"	1.5
+"1790"	52581	"Non precise"	"Commerce"	2013	"Beton"	0.61
+"1791"	52597	"Non precise"	"Enseignement"	2013	"Bois"	0.68
+"1792"	52598	"Non precise"	"Bureaux"	2013	"Brique"	1.1
+"1793"	52599	"Loire-Atlantique"	"Bureaux"	2013	"Beton"	0.51
+"1794"	52607	"Non precise"	"Enseignement"	2013	"Beton"	0.38
+"1795"	52712	"Pyrenees-Orientales"	"Bureaux"	2013	"Bois"	0.629081213
+"1796"	52720	"Isere"	"Salle polyvalente"	2013	"Beton"	0.720457494
+"1797"	52877	"Rhone"	"Salle polyvalente"	2013	"Beton"	1.535794047
+"1798"	52887	"Gard"	"Restaurant"	2013	"Beton"	0.757080733
+"1799"	52905	"Isere"	"Salle polyvalente"	2013	"Beton cellulaire"	0.665281611
+"1800"	52906	"Isere"	"Salle polyvalente"	2013	"Beton cellulaire"	0.256207354
+"1801"	52907	"Isere"	"Salle polyvalente"	2013	"Beton cellulaire"	0.299869803
+"1802"	52913	"Vaucluse"	"Bureaux"	2010	"Mixte Acier-Beton"	1.409683903
+"1806"	53046	"Finistere"	"Bureaux"	2013	"Beton"	0.43
+"1807"	53053	"Morbihan"	"Bureaux"	2013	"Beton"	0.79
+"1809"	53192	"Morbihan"	"Bureaux"	2013	"Beton"	4.23
+"1811"	53247	"Doubs"	"Bureaux"	2012	"Bois"	2.37
+"1812"	53248	"Doubs"	"Restaurant"	2012	"Bois"	2.62
+"1813"	53270	"Doubs"	"Bureaux"	2013	"Beton"	0.67
+"1814"	53296	"Doubs"	"Enseignement"	2013	"Beton"	1.79
+"1815"	53312	"Haute-Saone"	"Enseignement"	2013	"Beton"	1.17
+"1816"	53327	"Doubs"	"Bureaux"	2013	"Mixte Beton-Bois"	0.56
+"1817"	53328	"Doubs"	"Bureaux"	2013	"Beton"	0.89
+"1818"	53338	"Doubs"	"Enseignement"	2013	"Beton"	1.25
+"1819"	53339	"Doubs"	"Bureaux"	2013	"Beton"	0.1
+"1820"	53340	"Doubs"	"Etablissement sanitaire"	2013	"Beton"	0.19
+"1821"	53891	"Nievre"	"Etablissement sanitaire"	2012	"Beton"	0.138009
+"1822"	53940	"Correze"	"Bureaux"	2013	"Acier"	0.763622
+"1823"	53958	"Puy-de-Dome"	"Bureaux"	2013	"Bois"	0.515533
+"1827"	54115	"Savoie"	"Enseignement"	2012	"Beton"	2.58
+"1828"	54116	"Savoie"	"Enseignement"	2012	"Beton"	2.87
+"1829"	54117	"Savoie"	"Enseignement"	2012	"Beton"	4.44
+"1830"	54118	"Savoie"	"Enseignement"	2012	"Beton"	2.41
+"1831"	54119	"Savoie"	"Bureaux"	2013	"Beton"	3.85
+"1832"	54120	"Savoie"	"Bureaux"	2013	"Beton"	2.68
+"1836"	54233	"Doubs"	"Enseignement"	2013	"Brique"	2.171488
+"1837"	54350	"Charente-Maritime"	"Locaux sportifs"	2013	"Beton"	0.973
+"1838"	54351	"Charente-Maritime"	"Enseignement"	2013	"Beton"	1.337
+"1839"	54357	"Manche"	"Bureaux"	2012	"Acier"	0.169494
+"1840"	54360	"Manche"	"Enseignement"	2012	"Beton"	0.689497
+"1842"	54476	"Loire"	"Bureaux"	2013	"Bois"	3.8
+"1843"	54478	"Loire"	"Bureaux"	2013	"Bois"	3.2
+"1844"	54674	"Loire-Atlantique"	"Bureaux"	2013	"Beton"	1.033233
+"1848"	54821	"Haute-Savoie"	"Salle polyvalente"	2013	"Beton"	3.880154371
+"1849"	54826	"Haute-Savoie"	"Salle polyvalente"	2013	"Beton"	1.310068418
+"1852"	54881	"Haute-Savoie"	"Salle polyvalente"	2013	"Beton"	1.602356818
+"1853"	54991	"Morbihan"	"Bureaux"	2013	"Autre"	1.08
+"1858"	55065	"Loire-Atlantique"	"Salle polyvalente"	2013	"Beton"	1.23
+"1863"	55492	"Cotes-Darmor"	"Bureaux"	2013	"Bois"	0.2
+"1864"	55523	"Morbihan"	"Bureaux"	2013	"Pierre"	0.82
+"1865"	55539	"Non precise"	"Bureaux"	2012	"Bois"	0.16
+"1867"	55721	"Bas-Rhin"	"Salle polyvalente"	2013	"Beton"	1.709
+"1868"	55747	"Bas-Rhin"	"Enseignement"	2013	"Terre cuite"	1.287
+"1869"	55756	"Bas-Rhin"	"Locaux sportifs"	2013	"Mixte Acier-Beton"	1.475
+"1871"	55932	"Non precise"	"Enseignement"	2013	"Bois"	0.477
+"1872"	55933	"Non precise"	"Enseignement"	2013	"Beton"	0.654
+"1873"	55981	"Isere"	"Enseignement"	2013	"Bois"	0.89
+"1874"	56028	"Lozere"	"Etablissement sanitaire"	2012	"Bois"	0.9
+"1875"	56036	"Lozere"	"Bureaux"	2013	"Mixte Acier-Beton"	0.504
+"1888"	56636	"Non precise"	"Enseignement"	2013	"Beton"	0.94
+"1889"	56661	"Non precise"	"Enseignement"	2013	"Beton"	0.46
+"1890"	56662	"Non precise"	"Bureaux"	2013	"Acier"	1.12
+"1892"	56689	"Non precise"	"Enseignement"	2013	"Beton"	1.14
+"1894"	57074	"Gard"	"Enseignement"	2013	"Beton"	0.21
+"1895"	57075	"Gard"	"Enseignement"	2013	"Beton"	0.46
+"1901"	57258	"Herault"	"Enseignement"	2013	"Bois"	0.675104929
+"1902"	57268	"Herault"	"Bureaux"	2014	"Mixte Acier-Beton"	1.806954365
+"1903"	57270	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.540862265
+"1904"	57271	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.590055714
+"1905"	57272	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.724221013
+"1906"	57273	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.886255424
+"1907"	57276	"Herault"	"Bureaux"	2014	"Mixte Acier-Beton"	0.676336241
+"1909"	57312	"Bas-Rhin"	"Enseignement"	2013	"Bois"	0.56
+"1911"	57649	"Bouches-du-Rhone"	"Bureaux"	2013	"Beton"	1.13
+"1912"	57688	"Non precise"	"Enseignement"	2013	"Bois"	0.66
+"1913"	57779	"Isere"	"Enseignement"	2013	"Beton"	1.57
+"1914"	57780	"Isere"	"Enseignement"	2013	"Beton"	1.71
+"1928"	58519	"Non precise"	"Locaux sportifs"	2013	"Beton"	0.751439257
+"1930"	58546	"Non precise"	"Bureaux"	2012	"Bois"	0.167972572
+"1931"	58547	"Non precise"	"Bureaux"	2012	"Bois"	0.220579708
+"1933"	58576	"Non precise"	"Bureaux"	2013	"Bois"	1.619986906
+"1934"	58588	"Non precise"	"Bureaux"	2013	"Bois"	0.769255044
+"1935"	58623	"Puy-de-Dome"	"Bureaux"	2012	"Bois"	1.48
+"1936"	58640	"Indre-et-Loire"	"Bureaux"	2013	"Beton"	0.88
+"1937"	58641	"Indre-et-Loire"	"Bureaux"	2013	"Bois"	1.57
+"1938"	58764	"Non precise"	"Bureaux"	2011	"Acier"	6.11
+"1939"	59440	"Ardeche"	"Enseignement"	2013	"Beton"	0.63
+"1944"	59897	"Aveyron"	"Bureaux"	2013	"Bois"	0.528
+"1945"	60008	"Seine-et-Marne"	"Enseignement"	2013	"Brique"	0.9
+"1947"	60929	"Saone-et-Loire"	"Enseignement"	2013	"Bois"	0.50043
+"1950"	60980	"Nord"	"Enseignement"	2012	"Beton"	0.719456
+"1951"	60994	"Nord"	"Bureaux"	2013	"Bois"	2.203257
+"1952"	61004	"Nord"	"Bureaux"	2012	"Pierre"	1.272489
+"1953"	61006	"Nord"	"Enseignement"	2012	"Beton"	1.039672
+"1954"	61028	"Haut-Rhin"	"Enseignement"	2012	"Beton"	0.5
+"1955"	61029	"Moselle"	"Bureaux"	2012	"Beton"	0.27
+"1956"	61036	"Moselle"	"Bureaux"	2013	"Bois"	0.52
+"1958"	61041	"Moselle"	"Bureaux"	2013	"Beton"	0.36
+"1960"	61064	"Bas-Rhin"	"Bureaux"	2013	"Brique"	0.185364991
+"1964"	61124	"Deux-Sevres"	"Bureaux"	2012	"Bois"	0.54
+"1965"	61447	"Cotes-Darmor"	"Bureaux"	2013	"Bois"	0.41626719
+"1966"	61469	"Cote-Dor"	"Enseignement"	2013	"Beton"	1.905116
+"1967"	61485	"Cote-Dor"	"Enseignement"	2013	"Beton"	1.413373
+"1968"	61555	"Seine-Saint-Denis"	"Enseignement"	2013	"Bois"	0.905679
+"1969"	61556	"Seine-Saint-Denis"	"Enseignement"	2013	"Bois"	1.438246
+"1970"	61563	"Seine-Saint-Denis"	"Enseignement"	2013	"Mixte Acier-Beton"	1.856246
+"1971"	61564	"Seine-Saint-Denis"	"Enseignement"	2013	"Mixte Acier-Beton"	1.016991
+"1973"	61600	"Isere"	"Etablissement sanitaire"	2012	"Mixte Beton-Bois"	0.8
+"1978"	61628	"Isere"	"Etablissement sanitaire"	2013	"Beton"	0.86
+"1982"	61660	"Isere"	"Etablissement sanitaire"	2013	"Mixte Beton-Bois"	1.6
+"1983"	61661	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	1.26
+"1984"	61662	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	3.05
+"1985"	61663	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	1.47
+"1986"	61664	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	1.05
+"1987"	61678	"Isere"	"Bureaux"	2013	"Mixte Beton-Bois"	0.39
+"1988"	61682	"Isere"	"Enseignement"	2013	"Bois"	0.56
+"1989"	61684	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	1.21
+"1990"	61685	"Isere"	"Etablissement sanitaire"	2013	"Beton"	1.801
+"1991"	61686	"Isere"	"Etablissement sanitaire"	2013	"Beton"	0.5
+"1992"	61694	"Savoie"	"Enseignement"	2013	"Bois"	0.88
+"1993"	61695	"Isere"	"Etablissement sanitaire"	2013	"Beton"	1.13
+"1995"	61700	"Isere"	"Bureaux"	2013	"Beton"	0.25
+"1996"	61861	"Drome"	"Bureaux"	2013	"Brique"	1.55
+"1997"	61862	"Non precise"	"Locaux sportifs"	2013	"Bois"	1.53
+"1999"	61903	"Pas-de-Calais"	"Bureaux"	2013	"Acier"	1.06
+"2000"	61904	"Pas-de-Calais"	"Bureaux"	2013	"Acier"	0.84
+"2001"	61906	"Non precise"	"Enseignement"	2013	"Beton"	1.11
+"2002"	61933	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.86
+"2003"	61934	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.86
+"2004"	61935	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	1.29
+"2005"	61936	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	1.29
+"2006"	61937	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	1.44
+"2007"	61938	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	1.44
+"2008"	61939	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.59
+"2009"	61940	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.59
+"2011"	62247	"Essonne"	"Enseignement"	2013	"Bois"	0.79
+"2012"	62248	"Essonne"	"Enseignement"	2013	"Bois"	0.72
+"2013"	62254	"Essonne"	"Salle polyvalente"	2013	"Beton"	0.44
+"2015"	62306	"Val-de-Marne"	"Salle polyvalente"	2013	"Beton"	0.57
+"2016"	62415	"Non precise"	"Enseignement"	2013	"Beton"	5
+"2017"	62416	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.82
+"2018"	62417	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	0.82
+"2019"	62418	"Paris"	"Enseignement"	2013	"Beton"	0.87
+"2020"	62419	"Hauts-de-Seine"	"Etablissement sanitaire"	2013	"Beton"	1
+"2022"	62514	"Pyrenees-Orientales"	"Enseignement"	2013	"Beton"	0.828190396
+"2023"	62545	"Bouches-du-Rhone"	"Bureaux"	2014	"Beton"	0.128747101
+"2024"	62551	"Bouches-du-Rhone"	"Bureaux"	2014	"Beton"	0.129694647
+"2025"	62669	"Calvados"	"Etablissement sanitaire"	2014	"Bois"	0.716711122
+"2026"	62693	"Calvados"	"Hotel"	2014	"Bois"	0.591348945
+"2027"	62694	"Calvados"	"Hotel"	2014	"Bois"	0.600409485
+"2028"	62695	"Calvados"	"Hotel"	2014	"Bois"	0.710900639
+"2029"	62696	"Calvados"	"Hotel"	2014	"Bois"	0.745808299
+"2030"	62697	"Calvados"	"Hotel"	2014	"Bois"	1.689880521
+"2031"	62698	"Calvados"	"Hotel"	2014	"Bois"	1.407453764
+"2033"	62845	"Val-de-Marne"	"Bureaux"	2014	"Mixte Acier-Beton"	0.94
+"2034"	62847	"Paris"	"Locaux sportifs"	2014	"Brique"	0.82
+"2035"	62848	"Paris"	"Locaux sportifs"	2014	"Beton"	0.45
+"2036"	63048	"Seine-et-Marne"	"Etablissement sanitaire"	2012	"Beton"	0.61
+"2037"	63064	"Paris"	"Enseignement"	2013	"Beton"	0.95
+"2038"	63065	"Hauts-de-Seine"	"Enseignement"	2013	"Beton"	1.09
+"2039"	63082	"Non precise"	"Bureaux"	2014	"Mixte Acier-Beton"	1.33
+"2043"	63133	"Nord"	"Bureaux"	2014	"Acier"	1.64
+"2045"	63164	"Nord"	"Bureaux"	2014	"Acier"	1.41
+"2046"	63165	"Nord"	"Enseignement"	2014	"Brique"	0.8
+"2047"	63166	"Nord"	"Enseignement"	2014	"Brique"	0.99
+"2048"	63186	"Indre-et-Loire"	"Bureaux"	2014	"Mixte Acier-Beton"	2.33
+"2049"	63187	"Indre-et-Loire"	"Bureaux"	2014	"Mixte Acier-Beton"	2.38
+"2050"	63203	"Eure-et-Loir"	"Locaux sportifs"	2014	"Beton"	0.23
+"2058"	63403	"Hauts-de-Seine"	"Salle polyvalente"	2014	"Mixte Acier-Beton"	1.545267
+"2061"	63430	"Loire-Atlantique"	"Enseignement"	2014	"Autre"	0.22
+"2065"	63545	"Haut-Rhin"	"Enseignement"	2014	"Bois"	3.188060063
+"2070"	63561	"Haut-Rhin"	"Enseignement"	2014	"Bois"	0.832805971
+"2071"	63562	"Moselle"	"Etablissement sanitaire"	2014	"Bois"	0.325783725
+"2072"	63565	"Doubs"	"Enseignement"	2014	"Brique"	11.08683233
+"2073"	63579	"Bas-Rhin"	"Etablissement sanitaire"	2014	"Bois"	0.525323828
+"2075"	63604	"Ardeche"	"Commerce"	2013	"Acier"	5.79
+"2080"	63763	"Somme"	"Enseignement"	2014	"Bois"	0.95
+"2082"	63793	"Alpes-de-Haute-Provence"	"Bureaux"	2015	"Bois"	0.887734643
+"2084"	63866	"Paris"	"Etablissement sanitaire"	2014	"Beton"	3.22
+"2089"	63961	"Bouches-du-Rhone"	"Bureaux"	2013	"Beton"	1.21
+"2090"	64174	"Non precise"	"Enseignement"	2013	"Bois"	0.66
+"2091"	64184	"Non precise"	"Bureaux"	2014	"Beton"	0.44
+"2092"	64254	"Vaucluse"	"Enseignement"	2014	"Beton"	0.78
+"2093"	64335	"Gard"	"Restaurant"	2014	"Beton"	0.9
+"2094"	64573	"Non precise"	"Bureaux"	2014	"Acier"	5.55
+"2095"	64604	"Paris"	"Etablissement sanitaire"	2014	"Beton"	2.04
+"2096"	64605	"Paris"	"Etablissement sanitaire"	2014	"Beton"	1.31
+"2097"	64606	"Paris"	"Etablissement sanitaire"	2014	"Beton"	1.7
+"2098"	64607	"Paris"	"Etablissement sanitaire"	2014	"Beton"	1.05
+"2099"	64608	"Paris"	"Etablissement sanitaire"	2014	"Beton"	1.09
+"2100"	64609	"Paris"	"Etablissement sanitaire"	2014	"Beton"	0.99
+"2101"	64610	"Paris"	"Etablissement sanitaire"	2014	"Beton"	1.44
+"2102"	64693	"Val-de-Marne"	"Bureaux"	2014	"Beton"	1.04
+"2103"	64694	"Val-de-Marne"	"Bureaux"	2014	"Beton"	4.68
+"2104"	64695	"Val-de-Marne"	"Bureaux"	2014	"Beton"	7.03
+"2105"	64696	"Val-de-Marne"	"Bureaux"	2014	"Beton"	2.31
+"2107"	64844	"Morbihan"	"Enseignement"	2014	"Brique"	2.1
+"2109"	64849	"Vendee"	"Enseignement"	2014	"Beton"	0.8
+"2110"	64871	"Vendee"	"Bureaux"	2014	"Brique"	0.65
+"2111"	64872	"Vendee"	"Bureaux"	2014	"Brique"	0.41
+"2112"	64889	"Loire-Atlantique"	"Bureaux"	2014	"Beton"	0.32
+"2116"	64964	"Loire-Atlantique"	"Bureaux"	2014	"Beton"	1.81
+"2117"	64966	"Drome"	"Enseignement"	2014	"Bois"	0.47
+"2118"	65002	"Rhone"	"Bureaux"	2014	"Beton"	0.26
+"2119"	65072	"Isere"	"Enseignement"	2014	"Beton"	1.58
+"2120"	65128	"Aube"	"Salle polyvalente"	2014	"Brique"	0.58
+"2121"	65142	"Indre-et-Loire"	"Etablissement sanitaire"	2014	"Beton"	0.44
+"2122"	65149	"Indre-et-Loire"	"Salle polyvalente"	2014	"Bois"	2.18
+"2123"	65181	"Bas-Rhin"	"Enseignement"	2014	"Beton"	0.46
+"2124"	65185	"Haut-Rhin"	"Restaurant"	2014	"Beton"	1.11
+"2125"	65526	"Vendee"	"Salle polyvalente"	2014	"Beton"	0.69
+"2127"	65725	"Pyrenees-Atlantiques"	"Enseignement"	2014	"Beton"	0.425
+"2129"	65893	"Vendee"	"Salle polyvalente"	2014	"Bois"	0.93
+"2131"	65967	"Vendee"	"Enseignement"	2014	"Beton"	1.24
+"2132"	66038	"Vendee"	"Etablissement sanitaire"	2014	"Beton"	0.36
+"2135"	66260	"Haute-Garonne"	"Etablissement sanitaire"	2014	"Bois"	0.41
+"2136"	66261	"Haute-Garonne"	"Etablissement sanitaire"	2014	"Bois"	0.56
+"2137"	66265	"Tarn"	"Commerce"	2014	"Acier"	1.64
+"2138"	66279	"Tarn"	"Salle polyvalente"	2014	"Brique"	1.32
+"2139"	66301	"Herault"	"Bureaux"	2014	"Mixte Acier-Beton"	1.806954365
+"2140"	66303	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.540862265
+"2141"	66304	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.590055714
+"2142"	66305	"Non precise"	"Locaux sportifs"	2014	"Acier"	0.724221013
+"2143"	66307	"Herault"	"Bureaux"	2014	"Mixte Acier-Beton"	0.676336241
+"2144"	66404	"Herault"	"Etablissement sanitaire"	2015	"Autre"	0.23332778
+"2145"	66405	"Herault"	"Etablissement sanitaire"	2015	"Autre"	0.373529613
+"2146"	66444	"Vendee"	"Etablissement sanitaire"	2014	"Beton"	1.03
+"2147"	66460	"Vendee"	"Enseignement"	2014	"Brique"	0.83
+"2148"	66465	"Loire-Atlantique"	"Locaux sportifs"	2014	"Bois"	0.95
+"2149"	66623	"Sarthe"	"Etablissement sanitaire"	2015	"Beton"	0.79
+"2150"	66662	"Oise"	"Restaurant"	2013	"Bois"	2.79
+"2151"	66663	"Oise"	"Restaurant"	2013	"Bois"	2.89
+"2152"	66664	"Marne"	"Bureaux"	2010	"Beton"	6.45
+"2155"	66680	"Oise"	"Enseignement"	2014	"Brique"	1.25
+"2157"	66700	"Oise"	"Bureaux"	2014	"Brique"	1.64
+"2159"	66705	"Somme"	"Enseignement"	2014	"Bois"	1.43
+"2160"	66718	"Somme"	"Bureaux"	2014	"Beton"	0.54
+"2163"	66740	"Somme"	"Enseignement"	2014	"Beton"	0.83
+"2164"	66746	"Oise"	"Bureaux"	2014	"Beton"	0.63
+"2169"	66777	"Pas-de-Calais"	"Bureaux"	2014	"Beton"	0.98
+"2172"	66914	"Yonne"	"Enseignement"	2014	"Mixte Acier-Beton"	7.67
+"2173"	66916	"Marne"	"Salle polyvalente"	2014	"Beton"	0.439
+"2175"	66922	"Seine-et-Marne"	"Bureaux"	2014	"Beton"	1.425
+"2176"	66941	"Aube"	"Enseignement"	2014	"Beton"	0.559
+"2177"	66970	"Aube"	"Bureaux"	2014	"Mixte Acier-Beton"	5.4101
+"2178"	67004	"Aude"	"Bureaux"	2014	"Bois"	0.53
+"2179"	67005	"Aude"	"Bureaux"	2014	"Bois"	0.83
+"2180"	67006	"Aude"	"Restaurant"	2014	"Bois"	1.54
+"2181"	67007	"Aude"	"Bureaux"	2014	"Bois"	1.2
+"2182"	67008	"Aude"	"Bureaux"	2014	"Bois"	0.92
+"2183"	67096	"Haute-Vienne"	"Salle polyvalente"	2014	"Beton"	1.490904446
+"2185"	67109	"Haute-Vienne"	"Salle polyvalente"	2014	"Beton"	1.388077663
+"2187"	67117	"Haute-Vienne"	"Etablissement sanitaire"	2014	"Beton"	1.22873401
+"2188"	67120	"Haute-Vienne"	"Bureaux"	2014	"Mixte Beton-Bois"	0.805827807
+"2189"	67148	"Haute-Vienne"	"Bureaux"	2014	"Acier"	2.395230208
+"2190"	67150	"Haute-Vienne"	"Bureaux"	2014	"Acier"	3.936019025
+"2191"	67188	"Morbihan"	"Etablissement sanitaire"	2014	"Bois"	0.8
+"2192"	67189	"Morbihan"	"Etablissement sanitaire"	2014	"Bois"	0.48
+"2193"	67190	"Morbihan"	"Etablissement sanitaire"	2014	"Bois"	0.69
+"2194"	67191	"Morbihan"	"Etablissement sanitaire"	2014	"Bois"	0.69
+"2198"	67249	"Morbihan"	"Salle polyvalente"	2014	"Bois"	1.06
+"2199"	67310	"Correze"	"Etablissement sanitaire"	2014	"Bois"	0.939262
+"2200"	67580	"Charente-Maritime"	"Bureaux"	2014	"Brique"	0.2247
+"2201"	67638	"Deux-Sevres"	"Bureaux"	2014	"Beton"	0.2359
+"2202"	67786	"Charente-Maritime"	"Enseignement"	2014	"Brique"	0.1703
+"2203"	67787	"Deux-Sevres"	"Bureaux"	2014	"Beton"	0.3439
+"2204"	67788	"Loire-Atlantique"	"Enseignement"	2012	"Bois"	1.12
+"2205"	67815	"Loire-Atlantique"	"Etablissement sanitaire"	2012	"Brique"	0.87
+"2206"	67974	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.34
+"2208"	68008	"Hauts-de-Seine"	"Enseignement"	2013	"Bois"	1.06
+"2209"	68009	"Bas-Rhin"	"Bureaux"	2013	"Brique"	3.72
+"2210"	68069	"Bas-Rhin"	"Enseignement"	2013	"Beton"	0.7
+"2212"	68237	"Isere"	"Bureaux"	2014	"Beton"	1.0003
+"2213"	68653	"Cotes-Darmor"	"Bureaux"	2013	"Bois"	0.41626
+"2214"	68736	"Non precise"	"Bureaux"	2014	"Beton"	0.6
+"2215"	68760	"Landes"	"Bureaux"	2014	"Beton"	0.458646156
+"2216"	68775	"Landes"	"Etablissement sanitaire"	2014	"Terre cuite"	0.372539544
+"2217"	68804	"Marne"	"Bureaux"	2014	"Beton"	0.49
+"2218"	69030	"Loire-Atlantique"	"Enseignement"	2014	"Bois"	0.45
+"2219"	69128	"Gard"	"Bureaux"	2014	"Acier"	0.43856578
+"2220"	69241	"Rhone"	"Salle polyvalente"	2014	"Pierre"	2.38
+"2221"	69242	"Rhone"	"Restaurant"	2014	"Pierre"	2.33
+"2222"	69254	"Rhone"	"Enseignement"	2014	"Bois"	0.57
+"2223"	69590	"Non precise"	"Enseignement"	2014	"Mixte Beton-Bois"	0.39
+"2227"	69708	"Haute-Garonne"	"Bureaux"	2014	"Beton"	1.828309915
+"2228"	69994	"Eure-et-Loir"	"Enseignement"	2013	"Bois"	1.51
+"2229"	69995	"Eure-et-Loir"	"Enseignement"	2013	"Bois"	1.73
+"2230"	70007	"Yvelines"	"Enseignement"	2014	"Beton"	0.49
+"2231"	70017	"Eure-et-Loir"	"Etablissement sanitaire"	2014	"Brique"	1.78
+"2232"	70212	"Haute-Garonne"	"Bureaux"	2014	"Brique"	0.67
+"2233"	70398	"Lozere"	"Etablissement sanitaire"	2013	"Bois"	2.0764
+"2235"	70455	"Bas-Rhin"	"Enseignement"	2013	"Bois"	0.78
+"2237"	70474	"Bas-Rhin"	"Enseignement"	2014	"Brique"	0.58
+"2241"	70508	"Isere"	"Locaux sportifs"	2014	"Bois"	0.4
+"2242"	70672	"Lozere"	"Etablissement sanitaire"	2012	"Bois"	0.9
+"2243"	70730	"Herault"	"Enseignement"	2014	"Acier"	0.7
+"2244"	70758	"Non precise"	"Bureaux"	2014	"Acier"	1.34
+"2245"	70879	"Meuse"	"Bureaux"	2015	"Terre cuite"	0.233930601
+"2246"	71152	"Vaucluse"	"Bureaux"	2014	"Brique"	1.01
+"2250"	71186	"Haut-Rhin"	"Bureaux"	2014	"Brique"	0.67
+"2252"	71219	"Haut-Rhin"	"Bureaux"	2014	"Brique"	0.93
+"2253"	71264	"Haute-Savoie"	"Commerce"	2014	"Beton"	1.31
+"2254"	71301	"Puy-de-Dome"	"Enseignement"	2013	"Bois"	0.58
+"2255"	71344	"Charente-Maritime"	"Bureaux"	2014	"Beton"	0.620160199
+"2258"	71603	"Landes"	"Bureaux"	2014	"Bois"	0.21
+"2267"	71794	"Non precise"	"Industrie"	2014	"Acier"	0.084798
+"2268"	71800	"Finistere"	"Bureaux"	2014	"Beton"	1.402583
+"2276"	72030	"Seine-Saint-Denis"	"Bureaux"	2014	"Beton"	0.68
+"2277"	72326	"Charente-Maritime"	"Enseignement"	2014	"Brique"	0.54
+"2278"	72488	"Seine-et-Marne"	"Enseignement"	2014	"Beton"	0.38
+"2280"	72605	"Essonne"	"Enseignement"	2014	"Beton"	0.88
+"2281"	72882	"Rhone"	"Commerce"	2014	"Acier"	1.876264305
+"2282"	72889	"Drome"	"Enseignement"	2014	"Beton"	0.882536975
+"2283"	72891	"Drome"	"Locaux sportifs"	2014	"Beton"	0.318121011
+"2284"	72946	"Hautes-Alpes"	"Enseignement"	2015	"Brique"	1.377219337
+"2285"	73002	"Pyrenees-Atlantiques"	"Enseignement"	2014	"Bois"	0.303092401
+"2287"	73303	"Seine-Maritime"	"Commerce"	2014	"Acier"	0.4
+"2288"	73315	"Nord"	"Bureaux"	2014	"Acier"	0.89
+"2289"	73316	"Nord"	"Bureaux"	2014	"Acier"	1.21
+"2290"	73515	"Meuse"	"Bureaux"	2014	"Beton"	0.81
+"2291"	73519	"Haute-Saone"	"Bureaux"	2014	"Bois"	0.4
+"2292"	73534	"Doubs"	"Etablissement sanitaire"	2014	"Bois"	0.89
+"2293"	73535	"Cote-Dor"	"Bureaux"	2014	"Beton"	0.58
+"2294"	73540	"Doubs"	"Bureaux"	2014	"Bois"	1.66
+"2295"	73665	"Non precise"	"Bureaux"	2014	"Brique"	0.59
+"2296"	73666	"Non precise"	"Bureaux"	2014	"Bois"	0.53
+"2297"	73667	"Non precise"	"Bureaux"	2014	"Bois"	0.78
+"2298"	73668	"Non precise"	"Bureaux"	2014	"Bois"	0.64
+"2299"	73669	"Non precise"	"Bureaux"	2014	"Bois"	0.56
+"2300"	73670	"Non precise"	"Bureaux"	2014	"Bois"	0.81
+"2303"	73720	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	0.96
+"2304"	73721	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	0.78
+"2305"	73722	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	0.8
+"2306"	73723	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	1
+"2307"	73724	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	0.66
+"2308"	73725	"Seine-et-Marne"	"Etablissement sanitaire"	2013	"Beton"	0.98
+"2310"	73727	"Essonne"	"Etablissement sanitaire"	2013	"Beton cellulaire"	1.07
+"2311"	73728	"Essonne"	"Etablissement sanitaire"	2013	"Beton cellulaire"	0.87
+"2313"	73850	"Ariege"	"Etablissement sanitaire"	2014	"Beton"	1.16
+"2315"	73853	"Ariege"	"Etablissement sanitaire"	2014	"Brique"	0.58
+"2316"	73855	"Ariege"	"Etablissement sanitaire"	2015	"Brique"	0.19
+"2317"	73901	"Saone-et-Loire"	"Enseignement"	2013	"Beton"	0.88
+"2318"	73908	"Saone-et-Loire"	"Enseignement"	2014	"Brique"	0.68
+"2320"	74042	"Bouches-du-Rhone"	"Locaux sportifs"	2014	"Beton"	0.83
+"2321"	74672	"Manche"	"Bureaux"	2014	"Bois"	0.5
+"2322"	74673	"Calvados"	"Enseignement"	2014	"Beton"	1.04
+"2323"	74674	"Calvados"	"Enseignement"	2014	"Beton"	0.69
+"2324"	74686	"Calvados"	"Hotel"	2014	"Beton"	1.97
+"2325"	74728	"Doubs"	"Salle polyvalente"	2014	"Beton"	0.5
+"2326"	74729	"Jura"	"Bureaux"	2014	"Mixte Beton-Bois"	0.68
+"2328"	74734	"Loire"	"Bureaux"	2014	"Mixte Beton-Bois"	0.368385693
+"2329"	74738	"Savoie"	"Enseignement"	2014	"Beton"	0.8
+"2330"	74742	"Jura"	"Enseignement"	2014	"Brique"	0.7
+"2334"	74757	"Isere"	"Enseignement"	2014	"Mixte Acier-Beton"	1.478500584
+"2335"	74763	"Jura"	"Locaux sportifs"	2014	"Acier"	0.56
+"2336"	74775	"Isere"	"Enseignement"	2014	"Mixte Acier-Beton"	0.773775109
+"2337"	74797	"Saone-et-Loire"	"Etablissement sanitaire"	2014	"Brique"	1.3
+"2338"	74798	"Savoie"	"Bureaux"	2013	"Beton"	0.77
+"2340"	74824	"Cote-Dor"	"Enseignement"	2014	"Beton"	0.55
+"2343"	74843	"Ain"	"Bureaux"	2014	"Bois"	0.17
+"2345"	74855	"Doubs"	"Bureaux"	2014	"Beton"	3.49
+"2347"	74864	"Jura"	"Enseignement"	2012	"Beton"	3.36
+"2348"	74882	"Ain"	"Enseignement"	2014	"Brique"	2.05
+"2349"	74890	"Rhone"	"Enseignement"	2014	"Beton"	0.17
+"2350"	74891	"Doubs"	"Bureaux"	2014	"Beton"	0.71
+"2351"	74892	"Jura"	"Enseignement"	2014	"Bois"	0.15
+"2352"	74913	"Rhone"	"Bureaux"	2011	"Mixte Acier-Beton"	3.42
+"2353"	74914	"Rhone"	"Bureaux"	2011	"Mixte Acier-Beton"	4.25
+"2354"	74915	"Rhone"	"Bureaux"	2011	"Mixte Acier-Beton"	2.93
+"2355"	74916	"Rhone"	"Bureaux"	2011	"Mixte Acier-Beton"	2.93
+"2358"	75760	"Bas-Rhin"	"Etablissement sanitaire"	2013	"Beton"	0.37
+"2359"	75764	"Haut-Rhin"	"Locaux sportifs"	2014	"Beton"	3.49
+"2360"	75773	"Haute-Loire"	"Etablissement sanitaire"	2014	"Bois"	0.46
+"2361"	75786	"Puy-de-Dome"	"Bureaux"	2014	"Terre cuite"	0.77
+"2362"	75859	"Pyrenees-Atlantiques"	"Bureaux"	2014	"Bois"	0.47
+"2363"	76049	"Pyrenees-Atlantiques"	"Bureaux"	2014	"Mixte Beton-Bois"	0.9608
+"2366"	76365	"Seine-Maritime"	"Enseignement"	2013	"Beton"	0.53497327
+"2368"	76504	"Oise"	"Bureaux"	2014	"Brique"	3.08
+"2369"	76570	"Oise"	"Bureaux"	2014	"Brique"	0.97
+"2373"	76852	"Non precise"	"Enseignement"	2014	"Beton"	0.83
+"2380"	77021	"Yvelines"	"Bureaux"	2014	"Beton"	0.58
+"2381"	77022	"Non precise"	"Enseignement"	2014	"Beton"	0.64
+"2382"	77038	"Paris"	"Bureaux"	2014	"Mixte Acier-Beton"	1.98
+"2386"	77670	"Ille-et-Vilaine"	"Bureaux"	2014	"Beton"	0.748673
+"2387"	77677	"Cotes-Darmor"	"Etablissement sanitaire"	2014	"Bois"	0.435796
+"2388"	77678	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	0.506196
+"2389"	77682	"Morbihan"	"Industrie"	2014	"Acier"	0.466759
+"2390"	77686	"Mayenne"	"Salle polyvalente"	2014	"Beton"	0.505266
+"2391"	77709	"Cotes-Darmor"	"Restaurant"	2014	"Beton"	2.377908
+"2392"	77710	"Ille-et-Vilaine"	"Restaurant"	2014	"Beton"	0.965299
+"2393"	77712	"Cotes-Darmor"	"Restaurant"	2014	"Beton"	0.715556
+"2394"	77717	"Ille-et-Vilaine"	"Enseignement"	2014	"Mixte Acier-Beton"	0.740583
+"2395"	77725	"Ille-et-Vilaine"	"Bureaux"	2014	"Bois"	1.176452
+"2396"	77727	"Morbihan"	"Bureaux"	2014	"Beton"	1.160456
+"2397"	77728	"Cotes-Darmor"	"Restaurant"	2014	"Beton"	0.998496
+"2398"	77732	"Cotes-Darmor"	"Salle polyvalente"	2014	"Pierre"	1.051544
+"2399"	77733	"Ille-et-Vilaine"	"Enseignement"	2014	"Bois"	0.738621
+"2400"	77741	"Cotes-Darmor"	"Bureaux"	2014	"Pierre"	0.696253
+"2401"	77748	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	1.189076
+"2402"	77749	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	0.571261
+"2403"	77750	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	1.807325
+"2404"	77751	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	1.586139
+"2405"	77752	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	0.721065
+"2406"	77753	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	2.169461
+"2407"	77768	"Cotes-Darmor"	"Salle polyvalente"	2014	"Bois"	0.536974
+"2408"	77773	"Ille-et-Vilaine"	"Locaux sportifs"	2013	"Beton"	1.366135
+"2409"	77794	"Ille-et-Vilaine"	"Locaux sportifs"	2014	"Beton"	1.330988
+"2410"	77851	"Ille-et-Vilaine"	"Enseignement"	2014	"Mixte Beton-Bois"	0.651043
+"2411"	77852	"Ille-et-Vilaine"	"Enseignement"	2014	"Mixte Beton-Bois"	1.426921
+"2412"	77926	"Ille-et-Vilaine"	"Bureaux"	2014	"Bois"	0.737426
+"2413"	77942	"Ille-et-Vilaine"	"Enseignement"	2014	"Mixte Beton-Bois"	0.650651
+"2414"	77943	"Ille-et-Vilaine"	"Enseignement"	2014	"Mixte Beton-Bois"	1.107969
+"2415"	77949	"Ille-et-Vilaine"	"Bureaux"	2014	"Beton"	0.475159
+"2416"	77954	"Cotes-Darmor"	"Bureaux"	2014	"Bois"	1.81
+"2417"	77955	"Cotes-Darmor"	"Bureaux"	2014	"Mixte Beton-Bois"	0.62
+"2418"	77956	"Cotes-Darmor"	"Bureaux"	2014	"Mixte Beton-Bois"	0.82
+"2421"	78006	"Loire-Atlantique"	"Enseignement"	2014	"Beton"	0.73
+"2422"	78007	"Loire-Atlantique"	"Enseignement"	2014	"Beton"	1.24
+"2423"	78008	"Mayenne"	"Etablissement sanitaire"	2014	"Bois"	0.6
+"2424"	78009	"Mayenne"	"Bureaux"	2014	"Beton"	1.1
+"2425"	78010	"Mayenne"	"Bureaux"	2014	"Beton"	1.2
+"2427"	78012	"Mayenne"	"Bureaux"	2014	"Beton"	0.81
+"2428"	78013	"Maine-et-Loire"	"Restaurant"	2014	"Beton"	1.24
+"2433"	78239	"Dordogne"	"Enseignement"	2014	"Chanvre"	2.03
+"2434"	78240	"Dordogne"	"Enseignement"	2014	"Bois"	2.2
+"2435"	78620	"Non precise"	"Salle polyvalente"	2014	"Mixte Beton-Bois"	0.759
+"2437"	78625	"Hautes-Alpes"	"Etablissement sanitaire"	2013	"Beton"	1.33
+"2438"	78626	"Isere"	"Enseignement"	2014	"Beton"	0.84
+"2439"	78629	"Non precise"	"Salle polyvalente"	2014	"Mixte Beton-Bois"	0.86
+"2441"	78637	"Rhone"	"Salle polyvalente"	2014	"Mixte Beton-Bois"	0.24
+"2442"	78638	"Rhone"	"Salle polyvalente"	2014	"Mixte Beton-Bois"	0.35
+"2444"	78648	"Isere"	"Enseignement"	2014	"Mixte Beton-Bois"	0.89
+"2445"	78694	"Moselle"	"Bureaux"	2014	"Bois"	0.408600462
+"2447"	78715	"Isere"	"Etablissement sanitaire"	2013	"Beton"	1.13
+"2449"	78718	"Savoie"	"Enseignement"	2013	"Bois"	0.76
+"2451"	78720	"Savoie"	"Locaux sportifs"	2014	"Bois"	0.33
+"2454"	78768	"Isere"	"Etablissement sanitaire"	2014	"Beton"	1.14
+"2457"	78788	"Loiret"	"Bureaux"	2014	"Beton"	0.403
+"2461"	78844	"Loir-et-Cher"	"Restaurant"	2015	"Paille"	0.53
+"2466"	79018	"Ain"	"Etablissement sanitaire"	2014	"Brique"	0.14
+"2468"	79042	"Savoie"	"Bureaux"	2014	"Beton"	0.814173683
+"2469"	79043	"Savoie"	"Bureaux"	2014	"Beton"	1.30691505
+"2471"	79132	"Calvados"	"Enseignement"	2014	"Beton"	0.612018636
+"2473"	79206	"Ille-et-Vilaine"	"Enseignement"	2014	"Beton"	0.973307483
+"2474"	79303	"Lot-et-Garonne"	"Bureaux"	2014	"Beton"	0.48
+"2475"	79550	"Ille-et-Vilaine"	"Bureaux"	2014	"Beton"	0.863443
+"2476"	79782	"Savoie"	"Salle polyvalente"	2014	"Bois"	0.669
+"2477"	79983	"Orne"	"Bureaux"	2014	"Beton"	0.452
+"2478"	79984	"Orne"	"Bureaux"	2014	"Beton"	0.637
+"2479"	80006	"Sarthe"	"Bureaux"	2014	"Beton"	1.425
+"2480"	80056	"Non precise"	"Bureaux"	2014	"Mixte Acier-Beton"	2.48
+"2482"	80292	"Savoie"	"Commerce"	2014	"Bois"	0.37
+"2483"	80348	"Var"	"Bureaux"	2014	"Beton"	0.96
+"2484"	80490	"Maine-et-Loire"	"Enseignement"	2014	"Beton"	11.0364
+"2485"	80491	"Maine-et-Loire"	"Enseignement"	2014	"Beton"	7.8359
+"2486"	80504	"Haute-Savoie"	"Bureaux"	2014	"Beton"	0.19
+"2487"	80515	"Loire-Atlantique"	"Enseignement"	2014	"Bois"	0.8
+"2488"	80523	"Loire-Atlantique"	"Bureaux"	2014	"Beton"	1.26
+"2491"	80574	"Maine-et-Loire"	"Etablissement sanitaire"	2014	"Bois"	1.22
+"2495"	80621	"Loire-Atlantique"	"Enseignement"	2014	"Beton"	0.78
+"2496"	80624	"Maine-et-Loire"	"Enseignement"	2014	"Mixte Beton-Bois"	0.702
+"2497"	80648	"Loire-Atlantique"	"Enseignement"	2014	"Bois"	0.4042
+"2498"	80701	"Mayenne"	"Bureaux"	2015	"Beton"	0.8302
+"2500"	80716	"Maine-et-Loire"	"Enseignement"	2014	"Beton"	7.5121
+"2502"	80826	"Landes"	"Etablissement sanitaire"	2014	"Beton"	0.699908
+"2503"	80852	"Maine-et-Loire"	"Bureaux"	2014	"Mixte Beton-Bois"	0.305502
+"2504"	80887	"Maine-et-Loire"	"Enseignement"	2014	"Brique"	0.984663
+"2505"	80925	"Maine-et-Loire"	"Bureaux"	2014	"Bois"	0.28
+"2506"	81196	"Maine-et-Loire"	"Enseignement"	2014	"Beton"	0.38
+"2507"	81259	"Charente-Maritime"	"Commerce"	2014	"Beton"	0.890102
+"2508"	81358	"Charente-Maritime"	"Bureaux"	2014	"Beton"	1.664906
+"2511"	81412	"Bas-Rhin"	"Bureaux"	2011	"Acier"	4.339325796
+"2514"	81446	"Bas-Rhin"	"Enseignement"	2013	"Beton"	2.722986509
+"2515"	81447	"Alpes-Maritimes"	"Enseignement"	2013	"Beton"	7.30756898
+"2516"	81448	"Bas-Rhin"	"Bureaux"	2013	"Beton"	1.037999756
+"2517"	81454	"Bas-Rhin"	"Enseignement"	2013	"Acier"	0.879207913
+"2521"	81471	"Bas-Rhin"	"Enseignement"	2014	"Beton"	0.735656801
+"2522"	81485	"Bas-Rhin"	"Bureaux"	2014	"Brique"	0.862304193
+"2523"	81486	"Bas-Rhin"	"Bureaux"	2014	"Brique"	0.946848411
+"2526"	81504	"Bas-Rhin"	"Etablissement sanitaire"	2014	"Beton"	0.41843398
+"2529"	81538	"Non precise"	"Etablissement sanitaire"	2014	"Pierre"	1.591030837
+"2530"	81559	"Non precise"	"Enseignement"	2014	"Beton"	0.90206268
+"2532"	81579	"Non precise"	"Bureaux"	2014	"Beton"	0.263546764
+"2535"	81610	"Bas-Rhin"	"Enseignement"	2013	"Bois"	0.99
+"2536"	81611	"Bas-Rhin"	"Enseignement"	2013	"Beton"	0.809002599
+"2538"	81633	"Bas-Rhin"	"Enseignement"	2013	"Beton"	1.091009658
+"2541"	81739	"Non precise"	"Bureaux"	2014	"Beton"	0.77
+"2542"	81740	"Non precise"	"Bureaux"	2014	"Beton"	0.88
+"2543"	81741	"Non precise"	"Bureaux"	2014	"Beton"	0.92
+"2551"	81880	"Territoire-de-Belfort"	"Bureaux"	2014	"Acier"	1.65
+"2552"	81883	"Jura"	"Bureaux"	2014	"Beton"	0.65
+"2553"	81909	"Cote-Dor"	"Salle polyvalente"	2014	"Bois"	1.6
+"2554"	81934	"Doubs"	"Etablissement sanitaire"	2014	"Brique"	0.39
+"2556"	81955	"Jura"	"Bureaux"	2014	"Bois"	0.78
+"2558"	81969	"Non precise"	"Commerce"	2014	"Beton"	1.52
+"2560"	82043	"Non precise"	"Bureaux"	2013	"Beton"	0.442775446
+"2561"	82054	"Non precise"	"Bureaux"	2013	"Beton"	1.217351173
+"2563"	82064	"Non precise"	"Bureaux"	2013	"Beton"	0.674811263
+"2567"	82105	"Non precise"	"Bureaux"	2014	"Beton"	1.027746172
+"2570"	82115	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.317816466
+"2571"	82116	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.394888976
+"2572"	82117	"Non precise"	"Etablissement sanitaire"	2013	"Beton"	0.179320609
+"2573"	82132	"Non precise"	"Bureaux"	2014	"Beton"	0.295707658
+"2575"	82165	"Non precise"	"Enseignement"	2014	"Beton"	0.368459435
+"2576"	82168	"Non precise"	"Enseignement"	2014	"Beton"	1.325113669
+"2577"	82188	"Non precise"	"Industrie"	2014	"Beton"	0.865140548
+"2578"	82200	"Non precise"	"Commerce"	2014	"Beton"	1.542461293
+"2579"	82201	"Non precise"	"Commerce"	2014	"Beton"	1.797714943
+"2581"	82258	"Non precise"	"Enseignement"	2014	"Beton"	1.415418937
+"2583"	82262	"Non precise"	"Etablissement sanitaire"	2014	"Brique"	2.493177941
+"2585"	82271	"Non precise"	"Etablissement sanitaire"	2014	"Beton"	0.514937313
+"2588"	82277	"Non precise"	"Salle polyvalente"	2014	"Bois"	3.844094459
+"2592"	82313	"Non precise"	"Enseignement"	2014	"Acier"	1.409045974
+"2593"	82314	"Non precise"	"Enseignement"	2014	"Acier"	2.130506275
+"2594"	82318	"Non precise"	"Commerce"	2014	"Beton"	0.994847142
+"2595"	82319	"Non precise"	"Commerce"	2014	"Beton"	0.860301735
+"2596"	82330	"Non precise"	"Enseignement"	2014	"Beton"	1.101959996
+"2598"	82346	"Non precise"	"Enseignement"	2014	"Beton"	0.76787854
+"2599"	82372	"Non precise"	"Etablissement sanitaire"	2014	"Acier"	2.084933492
+"2600"	82394	"Non precise"	"Bureaux"	2014	"Beton cellulaire"	0.579947554
+"2607"	82583	"Morbihan"	"Enseignement"	2014	"Bois"	0.75
+"2608"	82584	"Non precise"	"Enseignement"	2014	"Beton"	1.1
+"2609"	82587	"Finistere"	"Etablissement sanitaire"	2014	"Beton"	0.34
+"2613"	83058	"Vendee"	"Enseignement"	2013	"Autre"	1.1
+"2614"	83073	"Vendee"	"Enseignement"	2012	"Beton"	1.6
+"2615"	83074	"Vendee"	"Enseignement"	2012	"Beton"	0.61
+"2616"	83075	"Vendee"	"Enseignement"	2012	"Beton"	0.92
+"2622"	83338	"Pas-de-Calais"	"Bureaux"	2014	"Beton"	0.37
+"2623"	83586	"Ille-et-Vilaine"	"Bureaux"	2013	"Bois"	0.89061572
+"2624"	83685	"Gironde"	"Commerce"	2013	"Brique"	0.54330355
+"2625"	83708	"Maine-et-Loire"	"Bureaux"	2013	"Beton"	0.28834255
+"2626"	83712	"Gironde"	"Enseignement"	2014	"Beton"	0.58982
+"2627"	83713	"Gironde"	"Enseignement"	2014	"Beton"	0.06439
+"2628"	83715	"Gironde"	"Enseignement"	2014	"Beton"	0.977543
+"2631"	83762	"Non precise"	"Etablissement sanitaire"	2014	"Acier"	0.92
+"2632"	83763	"Non precise"	"Etablissement sanitaire"	2014	"Acier"	0.67
+"2633"	83766	"Morbihan"	"Etablissement sanitaire"	2014	"Acier"	1.07
+"2634"	83771	"Finistere"	"Etablissement sanitaire"	2014	"Beton"	0.164592
+"2635"	83778	"Finistere"	"Etablissement sanitaire"	2014	"Beton"	0.455656
+"2636"	83783	"Ille-et-Vilaine"	"Etablissement sanitaire"	2014	"Brique"	0.463498
+"2637"	83991	"Ardennes"	"Etablissement sanitaire"	2014	"Terre cuite"	0.940986
+"2640"	84177	"Finistere"	"Enseignement"	2014	"Beton"	0.36
+"2641"	84188	"Finistere"	"Bureaux"	2014	"Beton"	0.51
+"2643"	84218	"Morbihan"	"Bureaux"	2014	"Brique"	1.16
+"2646"	84410	"Manche"	"Etablissement sanitaire"	2011	"Beton"	1.1547
+"2647"	84411	"Sarthe"	"Etablissement sanitaire"	2011	"Beton"	1.5337
+"2648"	84470	"Hautes-Alpes"	"Bureaux"	2014	"Beton"	0.36
+"2649"	84471	"Non precise"	"Enseignement"	2014	"Beton"	1.39
+"2650"	84475	"Marne"	"Bureaux"	2014	"Beton"	0.56
+"2651"	84478	"Nord"	"Locaux sportifs"	2014	"Beton"	0.97
+"2652"	84480	"Marne"	"Salle polyvalente"	2014	"Beton"	1.12
+"2653"	84481	"Aisne"	"Enseignement"	2014	"Beton"	0.38
+"2654"	84482	"Marne"	"Restaurant"	2014	"Beton"	1.55
+"2655"	84536	"Vendee"	"Enseignement"	2013	"Beton"	1.447035
+"2658"	84567	"Vendee"	"Commerce"	2013	"Beton"	0.769484
+"2659"	84570	"Vendee"	"Bureaux"	2014	"Beton"	1.298568
+"2661"	84590	"Non precise"	"Bureaux"	2014	"Beton"	0.59
+"2663"	84773	"Tarn"	"Enseignement"	2014	"Brique"	1.204909
+"2665"	84833	"Saone-et-Loire"	"Enseignement"	2014	"Brique"	0.91
+"2666"	85546	"Pas-de-Calais"	"Etablissement sanitaire"	2014	"Terre cuite"	0.59
+"2667"	85562	"Nord"	"Etablissement sanitaire"	2014	"Terre cuite"	1.13
+"2668"	85571	"Pas-de-Calais"	"Salle polyvalente"	2014	"Acier"	0.2
+"2669"	85572	"Pas-de-Calais"	"Salle polyvalente"	2014	"Acier"	0.19
+"2670"	85598	"Pas-de-Calais"	"Salle polyvalente"	2014	"Acier"	1.09
+"2671"	85599	"Pas-de-Calais"	"Bureaux"	2014	"Bois"	0.55
+"2672"	85600	"Pas-de-Calais"	"Bureaux"	2014	"Bois"	0.43
+"2673"	85617	"Pas-de-Calais"	"Etablissement sanitaire"	2014	"Brique"	0.71
+"2674"	85740	"Pas-de-Calais"	"Etablissement sanitaire"	2013	"Beton"	0.16605052
+"2678"	86251	"Calvados"	"Bureaux"	2014	"Beton"	1
+"2679"	86252	"Calvados"	"Bureaux"	2014	"Beton"	0.55
+"2680"	86253	"Manche"	"Bureaux"	2014	"Brique"	0.62
+"2681"	86254	"Manche"	"Commerce"	2014	"Brique"	0.59
+"2682"	86257	"Calvados"	"Bureaux"	2014	"Beton"	1.05
+"2683"	86313	"Seine-Maritime"	"Etablissement sanitaire"	2014	"Bois"	0.81
+"2684"	86336	"Manche"	"Etablissement sanitaire"	2014	"Beton cellulaire"	0.2
+"2686"	86683	"Saone-et-Loire"	"Industrie"	2014	"Mixte Acier-Beton"	1.34
+"2687"	86684	"Saone-et-Loire"	"Industrie"	2014	"Mixte Acier-Beton"	0.53
+"2688"	86685	"Saone-et-Loire"	"Industrie"	2014	"Mixte Acier-Beton"	0.7
+"2689"	86747	"Marne"	"Enseignement"	2014	"Beton cellulaire"	3.098059322
+"2690"	86787	"Ariege"	"Bureaux"	2014	"Brique"	0.479
+"2692"	86876	"Finistere"	"Bureaux"	2014	"Mixte Beton-Bois"	0.42
+"2693"	86878	"Finistere"	"Bureaux"	2014	"Beton"	0.89
+"2697"	86888	"Doubs"	"Bureaux"	2014	"Beton"	0.77
+"2699"	86892	"Territoire-de-Belfort"	"Bureaux"	2014	"Beton"	0.72
+"2700"	86915	"Seine-Saint-Denis"	"Bureaux"	2014	"Beton"	0.68
+"2701"	87152	"Ille-et-Vilaine"	"Enseignement"	2014	"Bois"	0.461303
+"2702"	87721	"Meuse"	"Enseignement"	2014	"Brique"	0.73
+"2705"	87923	"Pyrenees-Atlantiques"	"Bureaux"	2014	"Bois"	0.4
+"2706"	88021	"Rhone"	"Bureaux"	2014	"Beton"	1.154196037
+"2708"	88213	"Saone-et-Loire"	"Bureaux"	2014	"Acier"	0.881981366
+"2710"	88323	"Loiret"	"Enseignement"	2014	"Beton"	0.565794
+"2711"	88324	"Loiret"	"Enseignement"	2014	"Beton"	0.457223
+"2713"	88620	"Territoire-de-Belfort"	"Etablissement sanitaire"	2014	"Beton"	1.87
+"2714"	88706	"Charente"	"Etablissement sanitaire"	2014	"Terre cuite"	0.98
+"2715"	88916	"Sarthe"	"Enseignement"	2014	"Beton"	0.7213
+"2716"	88924	"Sarthe"	"Commerce"	2014	"Pierre"	0.5986
+"2718"	89155	"Non precise"	"Bureaux"	2014	"Beton"	0.84
+"2719"	89177	"Haute-Saone"	"Bureaux"	2015	"Beton"	0.08
+"2720"	89188	"Tarn"	"Enseignement"	2014	"Beton"	1.53
+"2721"	89233	"Tarn"	"Enseignement"	2014	"Beton"	0.83
+"2722"	89234	"Tarn"	"Enseignement"	2014	"Beton"	0.97
+"2723"	89235	"Tarn"	"Enseignement"	2014	"Beton"	1.38
+"2724"	89236	"Tarn"	"Enseignement"	2014	"Beton"	1.5
+"2725"	89299	"Isere"	"Bureaux"	2014	"Acier"	0.22
+"2726"	89341	"Savoie"	"Salle polyvalente"	2014	"Beton"	0.576360407
+"2727"	89367	"Bas-Rhin"	"Enseignement"	2014	"Beton"	0.91
+"2728"	89380	"Moselle"	"Etablissement sanitaire"	2014	"Brique"	0.5671
+"2729"	89388	"Bas-Rhin"	"Bureaux"	2014	"Brique"	0.429
+"2730"	89403	"Bas-Rhin"	"Salle polyvalente"	2014	"Bois"	0.62
+"2733"	89540	"Pas-de-Calais"	"Bureaux"	2012	"Bois"	1.226637611
+"2734"	89541	"Pas-de-Calais"	"Enseignement"	2012	"Beton cellulaire"	1.554505699
+"2735"	89660	"Landes"	"Enseignement"	2014	"Beton"	0.99
+"2737"	89735	"Meuse"	"Bureaux"	2014	"Beton"	0.81
+"2738"	89739	"Haute-Saone"	"Bureaux"	2014	"Bois"	0.4
+"2739"	89754	"Doubs"	"Etablissement sanitaire"	2014	"Bois"	0.89
+"2740"	89755	"Cote-Dor"	"Bureaux"	2014	"Beton"	0.58
+"2741"	89760	"Doubs"	"Bureaux"	2014	"Bois"	1.66
+"2745"	89996	"Non precise"	"Bureaux"	2014	"Beton"	0.28
+"2746"	89997	"Ardeche"	"Bureaux"	2014	"Beton"	0.67
+"2747"	90000	"Loire-Atlantique"	"Bureaux"	2014	"Bois"	0.85
+"2748"	90019	"Loire-Atlantique"	"Etablissement sanitaire"	2014	"Bois"	0.33
+"2749"	90099	"Loire-Atlantique"	"Enseignement"	2014	"Bois"	0.97
+"2750"	90116	"Loire-Atlantique"	"Bureaux"	2014	"Beton"	0.53
+"2751"	90139	"Loire-Atlantique"	"Bureaux"	2014	"Beton"	0.39
+"2752"	90232	"Puy-de-Dome"	"Industrie"	2014	"Beton"	0.542196
+"2753"	90258	"Haut-Rhin"	"Bureaux"	2014	"Bois"	0.34
+"2754"	90301	"Aveyron"	"Etablissement sanitaire"	2014	"Beton"	0.96
+"2755"	90303	"Cantal"	"Etablissement sanitaire"	2014	"Beton"	0.71554626
+"2756"	90306	"Aveyron"	"Etablissement sanitaire"	2014	"Beton"	1.402586884
