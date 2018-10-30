@@ -39,4 +39,4 @@ in this directory root. This will install all the needed packages in a isolated 
 
 You will be able to choose this environment when using spyder, vscode or pycharm if you prefer using these ide.
 
-Otherwise, feel free too install manually the packages for each workshop as indicated in their README.
+Otherwise, feel free to install manually the packages for each workshop as indicated in their README.
