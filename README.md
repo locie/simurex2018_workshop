@@ -2,7 +2,7 @@
 
 Repository containing the LOCIE material for SIMUREX 2018.
 
-An interactive binder session can be used (but can be long to launch, an need a proper internet connection).
+An interactive binder session can be used (can be long to launch, and need a proper internet connection).
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/locie/simurex2018_workshop/master)
 
@@ -22,7 +22,7 @@ The following materials are available :
 - Antoine Caucheteux
   - [Measurement uncertainty assessment for building energy simulation](https://github.com/locie/simurex2018_workshop/blob/master/caucheteuxa)
 
-This last one use the R language that is shipped via the conda environment provided (the environment.yml file). Otherwise you can install the R language as well as an ide by yourself (see https://www.r-project.org/)
+This last one uses the R language that is shipped via the conda environment provided (the environment.yml file). Otherwise you can install the R language as well as an ide by yourself (see https://www.r-project.org/)
 
 In order to obtain an up-to-date an working environment, [download](https://www.anaconda.com/download/) and install Anaconda for your platform, then, in command line (Anaconda -> Anaconda Prompt in the windows menu), run
 
